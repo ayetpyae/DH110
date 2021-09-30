@@ -1,8 +1,9 @@
-# Nevada (title)
-## Aye Pyae DH110
-### assignment01: Heuristic evaluation of Nevada
----- 
-purpose of the assignment - 3-5 sentences of what you want to show through this assignment
+# Assignment 1: Heuristic Evaluation
+## Education in Nevada
+Aye Pyae | DH110 | Fall 2021
+### About the project
+3-5 sentences about education in Nevada.
+personal link/Description about the project how you want to contribute with your UX Design
 
 https://nv.gov/agencies
 
