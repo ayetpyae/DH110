@@ -7,11 +7,18 @@ personal link/Description about the project how you want to contribute with your
 
 ## Website 1: Department of Education
 screenshot
-# Background Information
+### Background Information
 description
-# Overall evaluation
+### Overall evaluation
 description
-# Heuristic evaluation
-https://nv.gov/agencies
+### Heuristic evaluation
+
+## Website 2: Nevada System of Higher Education
+screenshot
+### Background Information
+description
+### Overall evaluation
+description
+### Heuristic evaluation
 
 ![Website of Nevada government](NevadaGovWebsite.png)
