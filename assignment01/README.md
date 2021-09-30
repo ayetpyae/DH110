@@ -3,7 +3,7 @@
 Aye Pyae | DH110 | Fall 2021
 ### About the project
 COVID-19 changed the education system drastically, with the need for online schooling and remote learning. It also gave rise to the need for digitalized information. 
-Good user interface design is crucial for parents, students, and more to access information easily, especially since they are unable to meet with teachers or administrators in person to ask any questions that they have. Nevada is known to have one of the lowest Hence, I will be analyzing the usability of the Nevada Department of Education website as well as the Nevada System of Higher Education website using Nielson's 10 Usability Heuristics.
+Good user interface design is crucial for parents, students, and more to access information easily, especially since they are unable to meet with teachers or administrators in person to ask any questions that they have. Hence, I will be analyzing the usability of the Nevada Department of Education website as well as the Nevada System of Higher Education website using Nielson's 10 Usability Heuristics.
 
 ### Jakob Nielson's [10 Usability Heuristics for User Interface Design](https://www.nngroup.com/articles/ten-usability-heuristics/)
 | Heuristic | Description | Example |
@@ -32,7 +32,7 @@ Rating scaled used to evaluate severity of usability problems:
 ![Website of Nevada Deparment of Education](NevadaDepartmentOfEducation.png)
 View the website here: [Nevada Department of Education](https://doe.nv.gov/)
 ### Background Information
-The Nevada's Department of Education oversees the public K-12 education system in Nevada. 
+The Nevada's Department of Education oversees the public K-12 education system in Nevada. The website provides all the information on K-12 education, along with information on COVID-19 and how they are dealing with it.
 ### Overall evaluation
 Overall, the website is cluttered and there is an overload of information. There are many issues that make it confusing to navigate the website, such as poor color contrast as an excessive amount of unnessary elements. It is also visually overwhelming with the dark drop shadows and stock photos with text on them. The website is not very user friendly. 
 
