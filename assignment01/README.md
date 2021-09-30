@@ -3,8 +3,11 @@
 Aye Pyae | DH110 | Fall 2021
 ### About the project
 Nevada's K-12 public education system is ranked one of the lowest nationally. 
+COVID-19 gave rise to need for digitalized information.
+Good user interface design is crucial for parents, students, and more to access information easily. Hence, I will be analyzing 
 Description about the project how you want to contribute with your UX Design
-### Jakob Nielson's 10 Usability Heuristics for User Interface Design
+
+### Jakob Nielson's [10 Usability Heuristics for User Interface Design](https://www.nngroup.com/articles/ten-usability-heuristics/)
 | Heuristic | Description | Example |
 |---|----|---|
 |**1. Visibility of system status**| The design communicates clearly to users about what is going on, which allows them to learn and understand interactions with different components. | Battery status bar shows the amount of battery life remaining on a device.
@@ -18,9 +21,15 @@ Description about the project how you want to contribute with your UX Design
 |**9. Help users recognize, diagnose, and recover from errors** | Error message expressed in simple terms and presented so that users can recognize and solve them. | When a wrong password is inputted, the website/app notifies users that it is wrong and gives the option to create a new password through the 'Forget Password?' option.
 |**10. Help and documentation** | Resources are provided to clarify information and answer the questions of users. | FAQ page to answer frequently asked questions.
 
-### Severity Ratings for Usability Problems
-what is it
+### [Severity Ratings for Usability Problems](https://www.nngroup.com/articles/how-to-rate-the-severity-of-usability-problems/)
+Rating scaled used to evaluate severity of usability problems:  
+**0** = not a usability problem  
+**1** = cosmetic problem only; no need to be fixed unless there's extra time available  
+**2** = minor usability problem; low priority to fix  
+**3** = major usability problem; high priority to fix  
+**4** = usability catastrophe; need to be fixed immediately
 
+---
 
 ## Website 1: [Nevada Department of Education](https://doe.nv.gov/)
 ![Website of Nevada Deparment of Education](NevadaDepartmentOfEducation.png)
@@ -28,7 +37,7 @@ View the website here: [Nevada Department of Education](https://doe.nv.gov/)
 ### Background Information
 The website for Nevada's Department of Education provides information on the K-12 education system in Nevada. 
 ### Overall evaluation
-description
+cluttered, overload of information, confusion when navigating the website
 ### Heuristic evaluation
 | Heuristic | Evaluation | Severity Rating | Recommendation |
 |---|---|---|---|
@@ -41,10 +50,10 @@ description
 |**7. Flexibility and efficiency of use** |
 |**8. Aesthetic and minimalist design** |
 |**9. Help users with errors** |
-|**10. Help and documentation** | 
+|**10. Help and documentation** | FAQ page is good, hyperlinks
 
 
-
+---
 
 
 ## Website 2: [Nevada System of Higher Education](https://nshe.nevada.edu/)
