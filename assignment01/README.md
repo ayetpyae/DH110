@@ -37,18 +37,18 @@ View the website here: [Nevada Department of Education](https://doe.nv.gov/)
 ### Background Information
 The website for Nevada's Department of Education provides information on the K-12 education system in Nevada. 
 ### Overall evaluation
-cluttered, overload of information, confusion when navigating the website
+cluttered, overload of information, confusion when navigating the website, some text are hard to read bc of poor color contrast
 ### Heuristic evaluation
 | Heuristic | Evaluation | Severity Rating | Recommendation |
 |---|---|---|---|
-|**1. Visibility of system status**|
+|**1. Visibility of system status**| 
 |**2. Match between system + real world** |
 |**3. User control and freedom** |
-|**4. Consistency and standards** |
+|**4. Consistency and standards** | home page not clearly defined
 |**5. Error prevention** |
 |**6. Recognition rather than recall** |
 |**7. Flexibility and efficiency of use** |
-|**8. Aesthetic and minimalist design** |
+|**8. Aesthetic and minimalist design** | overload of information, no hiearchy of information | 3 | organize better
 |**9. Help users with errors** |
 |**10. Help and documentation** | FAQ page is good, hyperlinks
 
@@ -62,7 +62,7 @@ View the website here: [Nevada System of Higher Education](https://nshe.nevada.e
 ### Background Information
 description
 ### Overall evaluation
-description
+clean, but no about page, confusing to navigate
 ### Heuristic evaluation
 | Heuristic | Evaluation | Severity Rating | Recommendation |
 |---|---|---|---|
