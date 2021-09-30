@@ -2,8 +2,8 @@
 ## Education in Nevada
 Aye Pyae | DH110 | Fall 2021
 ### About the project
-COVID-19 gave rise to need for digitalized information. It also changed the education system drastically, with the need for online schooling and remote learning. 
-Good user interface design is crucial for parents, students, and more to access information easily. Hence, I will be analyzing 
+COVID-19 changed the education system drastically, with the need for online schooling and remote learning. It also gave rise to the need for digitalized information. 
+Good user interface design is crucial for parents, students, and more to access information easily, especially since they are unable to meet with teachers or administrators in person to ask any questions that they have. Hence, I will be analyzing the usability of the Nevada Department of Education website as well as the Nevada System of Higher Education website using Nielson's 10 Usability Heuristics.
 
 ### Jakob Nielson's [10 Usability Heuristics for User Interface Design](https://www.nngroup.com/articles/ten-usability-heuristics/)
 | Heuristic | Description | Example |
