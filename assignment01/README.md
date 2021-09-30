@@ -2,23 +2,24 @@
 ## Education in Nevada
 Aye Pyae | DH110 | Fall 2021
 ### About the project
-3-5 sentences about education in Nevada.
+Nevada's K-12 public education system is ranked one of the lowest nationally. 
 personal link/Description about the project how you want to contribute with your UX Design
 
-## Website 1: Department of Education
-screenshot
+## Website 1: [Nevada Department of Education](https://doe.nv.gov/)
+![Website of Nevada Deparment of Education](NevadaDepartmentOfEducation.png)
+View the website here: [Nevada Department of Education](https://doe.nv.gov/)
 ### Background Information
 description
 ### Overall evaluation
 description
 ### Heuristic evaluation
 
-## Website 2: Nevada System of Higher Education
-screenshot
+## Website 2: [Nevada System of Higher Education](https://nshe.nevada.edu/)
+![Website of Nevada System of Higher Education](NevadaSystemOfHigherEducation.png)
+View the website here: [Nevada System of Higher Education](https://nshe.nevada.edu/) 
 ### Background Information
 description
 ### Overall evaluation
 description
 ### Heuristic evaluation
 
-![Website of Nevada government](NevadaGovWebsite.png)
