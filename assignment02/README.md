@@ -25,4 +25,8 @@ Here is the link to the [video](https://youtu.be/dCeh2q9mAJI).
 ## Reflection
 The pilot usability test taught me both about the usability of the Nevada State of Department Website, as well as the process of usability testing itself.
 
-Overall, the user 
+The pilot usability test confirmed what I found out about the Nevada DOE website after evaluating its heuristics. My participant expressed frustrations out loud, as well as by having a hard time finding information while completing each tasks.  She noted that the website was extremely cluttered and she described the website as boring, cheap, old, unprofessional, and intimidating due to the overload of information. She pointed out the footer in particular, saying that it was the longest footer she has ever seen with way too many tabs and hyperlinks that are difficult to navigate. Overall, the participant's experience while completing the tasks strongly suggest that the Nevada DOE Website needs drastic change and improvements.
+
+Besides that, I also learned a great deal about the usabilty testing process. I finally understood why this process is so costly and time consuming. 
+
+Overall, aLthough there were a few hiccups here and there as it was my first time conducting a usability test, it went pretty well. The participant was eager and worked on the tasks actively, and the test flowed smoothly. However, there were some issues that could be improved upon. Firstly, the 
