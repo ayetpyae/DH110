@@ -48,7 +48,7 @@ Here is the link to the [interview script](https://docs.google.com/document/d/1o
   - Rely on Google's generated list to word questions better.
 
 ## Step 6: Reflection
-I enjoyed the contextual inquiry process because it allowed me to make observations and learn from users freely. I learned a great deal about the users’ perspective and how they approach things. This activity allowed me to detach myself from the Nevada Department of Education website that I have been analyzing thus far and understand the users who would go onto websites like that. 
+I enjoyed the contextual inquiry process because it allowed me to make observations and learn from users freely. I learned a great deal about the users’ perspective and how they approach things. This activity allowed me to detach myself from the Nevada Department of Education website that I have been analyzing thus far and understand the users who would go onto websites like that. Much of my conversation and discussion was focused on the general topic of K-12 education, instead of the Nevada Department of Education website. It was important to get a better understanding of how users thought about this topic and how they gathered information on the topic. The user confirmed my initial thoughts about different government websites. She used words like outdated, formal, and cluttered to describe the California Department of Education. However, I also learned a lot from her behavior, which I have listed in the section above. Overall, it was a good learning experience as it allowed me to move away from my own lens and personal biases and gave me insight into this topic. 
 
 
 
