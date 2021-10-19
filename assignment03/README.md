@@ -32,12 +32,14 @@ Aye Pyae | DH110 | Fall 2021
 - I used an iPhone to voice record the interview and I recorded the interview and participatory observation through Zoom/our own webcams. 
 
 ## Step 4: Observation/Interview Guide
-Here is the link to the interview script.
+Here is the link to the [interview script](https://docs.google.com/document/d/1oC7TAU09VqXrl-MQfNMtIcmsC6M_q7Pm_NolguWY1ss/edit?usp=sharing).
 
 ## Step 5: Conducting the research
 - Here is the video recording of the interview and participatory observation.
 - Here are the voice recordings of the interview and participatory observation.
-- Here is the transcription of the whole interview and participatory observation.
+  - [Voice recording 1](https://drive.google.com/file/d/1mH9n8P2s21Ad2BeqbLjELg2bO3nI432w/view?usp=sharing)
+  - [Voice recording 2](https://drive.google.com/file/d/1xgcTc9kldAFaJ3q_79eOsDA5uYddROWC/view?usp=sharing)
+- Here is the [transcription](https://docs.google.com/document/d/1sZImq9LjfQ94yjthOUOMOAFBq3M4w4eNNZeGSNLS0cY/edit?usp=sharing) of the whole interview and participatory observation.
 - Note: The internet connection was lost on my end at around the 36min mark. Hence, the video only recorded the first 36min. However, we continued the interview over phone so the rest of it is on the second voice recording.
 - Some interesting insights from the interview:
   - Fjlk
