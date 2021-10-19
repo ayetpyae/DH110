@@ -35,7 +35,7 @@ Aye Pyae | DH110 | Fall 2021
 Here is the link to the [interview script](https://docs.google.com/document/d/1oC7TAU09VqXrl-MQfNMtIcmsC6M_q7Pm_NolguWY1ss/edit?usp=sharing).
 
 ## Step 5: Conducting the research
-- Here is the video recording of the interview and participatory observation.
+- Here is the [video recording](https://youtu.be/3wsscp7ddEQ) of the interview and participatory observation.
 - Here are the voice recordings of the interview and participatory observation.
   - [Voice recording 1](https://drive.google.com/file/d/1mH9n8P2s21Ad2BeqbLjELg2bO3nI432w/view?usp=sharing)
   - [Voice recording 2](https://drive.google.com/file/d/1xgcTc9kldAFaJ3q_79eOsDA5uYddROWC/view?usp=sharing)
