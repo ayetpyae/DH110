@@ -51,15 +51,14 @@ Here is the link to the [interview script](https://docs.google.com/document/d/1o
   - "What are your thoughts while looking at this website? Very wordy. Looks a little outdated. Do you think the information is like overwhelming? Yeah. Pretty overwhelmed. And I'm not really sure where to look at...My overall statement of this is just that I mean, you know, it's like just any other government websites. Very formal, lots of information, overwhelming and cluttered."
 
 #### Insights on behavior when gathering information online:
-I found that many of the insights I made was behavioral, or how the user found information online. This will be extremely helpful as it lets me understand how someone from my target audience would navigate the web and different sites to find important information on the K-12 education system. (Many of these was non-verbal.)
+I found some behavioral insights, or *how* the user found information online. This will be extremely helpful as it lets me understand how someone from my target audience would navigate the web and different sites to find important information on the K-12 education system. (Some of these was non-verbal.)
 
-- Rely on the generated list of questions and keywords to find more relevant information (25:04, 30:33)
-  - "I mean just searching and research but yeah I didn't know that but the question kind of credit me here I also want to know you know like what's the what are the cons of."
-  - I'm just, I mean, I search for the, like these parents, these articles don't really answer my question. to one or two year old, what do you know about the K to 12? education? Or even like, you have a child? And what are some things you should know? Not really finding anything. I'm just like, okay, like, oh, five things you need to know about the K to 12 education. And this is pretty interesting. Because he only says five things. So I don't expect the article to be too long."
+- Rely on the generated list of questions and keywords to find more relevant information (17:07)
+  - "Yeah, I do a quick Google search. I kind of like read the excerpts from here and like I find these questions very helpful because sometimes, you know, I can’t phrase, I don't know how to phrase my questions, but these questions kind of help me phrase them perfectly. Yeah. And then yeah, kind of just like read these like excerpts, and then click on these."
 
  
 - More inclined to read text that are more organized (33:50)
-  - "Especially because government and web official sites tend to be a little more overwhelming with information? And then news articles, I would say, we have like a cleaner format, I was a little more experience in knowing like, what to kind of catches people's attention by reading this blog. So they are easier to refer me and also have that kind of added credibility than blog posts."
+  - News articles. Especially because government official websites tend to be a little more overwhelming with information. And then news articles, I would say, have like a cleaner format, I would say they are a little more experienced in knowing like what kind of catches people's attention, what keeps people reading, blogs. So they are easier to read for me and I also have that kind of added credibility than blog posts.
 
 
 
