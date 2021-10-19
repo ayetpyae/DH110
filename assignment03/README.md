@@ -48,7 +48,7 @@ Here is the link to the [interview script](https://docs.google.com/document/d/1o
 - Length of article/text.
 - Rely on Google's generated list to word questions better.
 - User's view on goverment websites (26:46)
-  "What are your thoughts while looking at this website? Very wordy. Looks a little outdated. Do you think the information is like overwhelming? Yeah. Pretty overwhelmed. And I'm not really sure where to look at...My overall statement of this is just that I mean, you know, it's like just any other government websites. Very formal, lots of information, overwhelming and cluttered."
+  - "What are your thoughts while looking at this website? Very wordy. Looks a little outdated. Do you think the information is like overwhelming? Yeah. Pretty overwhelmed. And I'm not really sure where to look at...My overall statement of this is just that I mean, you know, it's like just any other government websites. Very formal, lots of information, overwhelming and cluttered."
 
 
 
