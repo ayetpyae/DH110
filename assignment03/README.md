@@ -52,13 +52,15 @@ Here is the link to the [interview script](https://docs.google.com/document/d/1o
 
 #### Insights on behavior when gathering information online:
 I found that many of the insights I made was behavioral, or how the user found information online. This will be extremely helpful as it lets me understand how someone from my target audience would navigate the web and different sites to find important information on the K-12 education system. (Many of these was non-verbal.)
-- Open in different tabs first
-  - 
-- More inclined to read text that are more organized (33:50)
-  - "Especially because government and web offshore sites tend to be a little more overwhelming with information? And then news articles, I would say, we have like a cleaner format, I was a little more experience in knowing like, what to kind of catches people's attention by reading this blog. So they are easier to refer me and also have that kind of added credibility than blog posts."
 
-- Rely on Google's generated list of questions and keywords to find information better
-  - "
+- Rely on the generated list of questions and keywords to find more relevant information (25:04, 30:33)
+  - "I mean just searching and research but yeah I didn't know that but the question kind of credit me here I also want to know you know like what's the what are the cons of."
+  - I'm just, I mean, I search for the, like these parents, these articles don't really answer my question. to one or two year old, what do you know about the K to 12? education? Or even like, you have a child? And what are some things you should know? Not really finding anything. I'm just like, okay, like, oh, five things you need to know about the K to 12 education. And this is pretty interesting. Because he only says five things. So I don't expect the article to be too long."
+
+ 
+- More inclined to read text that are more organized (33:50)
+  - "Especially because government and web official sites tend to be a little more overwhelming with information? And then news articles, I would say, we have like a cleaner format, I was a little more experience in knowing like, what to kind of catches people's attention by reading this blog. So they are easier to refer me and also have that kind of added credibility than blog posts."
+
 
 
 
