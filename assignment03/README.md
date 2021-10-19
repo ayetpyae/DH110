@@ -53,9 +53,12 @@ Here is the link to the [interview script](https://docs.google.com/document/d/1o
 #### Insights on behavior when gathering information online:
 I found that many of the insights I made was behavioral, or how the user found information online. This will be extremely helpful as it lets me understand how someone from my target audience would navigate the web and different sites to find important information on the K-12 education system. (Many of these was non-verbal.)
 - Open in different tabs first
-- Length of article/text
-- Rely on Google's generated list to word questions better
+  - 
+- More inclined to read text that are more organized (33:50)
+  - "Especially because government and web offshore sites tend to be a little more overwhelming with information? And then news articles, I would say, we have like a cleaner format, I was a little more experience in knowing like, what to kind of catches people's attention by reading this blog. So they are easier to refer me and also have that kind of added credibility than blog posts."
 
+- Rely on Google's generated list of questions and keywords to find information better
+  - "
 
 
 
