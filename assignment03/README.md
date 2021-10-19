@@ -40,14 +40,18 @@ Here is the link to the [interview script](https://docs.google.com/document/d/1o
   - [Voice recording 1](https://drive.google.com/file/d/1mH9n8P2s21Ad2BeqbLjELg2bO3nI432w/view?usp=sharing)
   - [Voice recording 2](https://drive.google.com/file/d/1xgcTc9kldAFaJ3q_79eOsDA5uYddROWC/view?usp=sharing)
 - Here is the [transcription](https://docs.google.com/document/d/1sZImq9LjfQ94yjthOUOMOAFBq3M4w4eNNZeGSNLS0cY/edit?usp=sharing) of the whole interview and participatory observation.
-- Note: The internet connection was lost on my end at around the 36min mark. Hence, the video only recorded the first 36min. However, we continued the interview over phone so the rest of it is on the second voice recording.
-- Some interesting insights from the interview:
-  - Scroll through and scan for information, look for keywords.
-  - Open in different tabs first.
-  - Length of article/text.
-  - Rely on Google's generated list to word questions better.
-  - User's view on goverment websites (26:46)
-  -   
+- Note: The internet connection was lost on my end at around the 36min mark. Hence, the video only recorded the first 36min. However, we continued the interview over phone so the remaining 5 minutes of it is on the second voice recording.
+
+### Some interesting insights from the interview:
+- Scroll through and scan for information, look for keywords.
+- Open in different tabs first.
+- Length of article/text.
+- Rely on Google's generated list to word questions better.
+- User's view on goverment websites (26:46)
+  "What are your thoughts while looking at this website? Very wordy. Looks a little outdated. Do you think the information is like overwhelming? Yeah. Pretty overwhelmed. And I'm not really sure where to look at...My overall statement of this is just that I mean, you know, it's like just any other government websites. Very formal, lots of information, overwhelming and cluttered."
+
+
+
 
 ## Step 6: Reflection
 I enjoyed the contextual inquiry process because it allowed me to make observations and learn from users freely. I learned a great deal about the users’ perspective and how they approach things. This activity allowed me to detach myself from the Nevada Department of Education website that I have been analyzing thus far and understand the users who would go onto websites like that. Much of my conversation and discussion was focused on the general topic of K-12 education, instead of the Nevada Department of Education website. It was important to get a better understanding of how users thought about this topic and how they gathered information on the topic. The user confirmed my initial thoughts about different government websites. She used words like outdated, formal, and cluttered to describe the California Department of Education. However, I also learned a lot from her behavior, which I have listed in the section above. Overall, it was a good learning experience as it allowed me to move away from my own lens and personal biases and gave me insight into this topic. 
