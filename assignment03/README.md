@@ -46,7 +46,7 @@ Here is the link to the [interview script](https://docs.google.com/document/d/1o
 
 #### Insights on K-12 education:
 - Learning more about K-12 education through word of mouth (10:24)
-  -  "...word of mouth, I'll reach out to you like my friends, my co workers will live in the same area to see their experience with these schools or school districts."
+  -  "...word of mouth, I'll reach out to you like my friends, my co workers who live in the same area to see their experience with these schools or school districts."
 - User's view on goverment websites (26:46)
   - "What are your thoughts while looking at this website? Very wordy. Looks a little outdated. Do you think the information is like overwhelming? Yeah. Pretty overwhelmed. And I'm not really sure where to look at...My overall statement of this is just that I mean, you know, it's like just any other government websites. Very formal, lots of information, overwhelming and cluttered."
 
