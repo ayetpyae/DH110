@@ -42,13 +42,13 @@ Here is the link to the [interview script](https://docs.google.com/document/d/1o
 - Here is the [transcription](https://docs.google.com/document/d/1sZImq9LjfQ94yjthOUOMOAFBq3M4w4eNNZeGSNLS0cY/edit?usp=sharing) of the whole interview and participatory observation.
 - Note: The internet connection was lost on my end at around the 36min mark. Hence, the video only recorded the first 36min. However, we continued the interview over phone so the rest of it is on the second voice recording.
 - Some interesting insights from the interview:
-  - Fjlk
-  - Kdljf
-  - Kdlf
-  - Dkljfd
+  - Scroll through and scan for information, look for keywords.
+  - Open in different tabs first.
+  - Length of article/text.
+  - Rely on Google's generated list to word questions better.
 
 ## Step 6: Reflection
-I enjoyed the contextual inquiry process because it allowed me to make observations and learn from users freely. I learned a great deal about the users’ perspective and how they approach things. 
+I enjoyed the contextual inquiry process because it allowed me to make observations and learn from users freely. I learned a great deal about the users’ perspective and how they approach things. This activity allowed me to detach myself from the Nevada Department of Education website that I have been analyzing thus far and understand the users who would go onto websites like that. 
 
 
 
