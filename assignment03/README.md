@@ -43,18 +43,25 @@ Here is the link to the [interview script](https://docs.google.com/document/d/1o
 - Note: The internet connection was lost on my end at around the 36min mark. Hence, the video only recorded the first 36min. However, we continued the interview over phone so the remaining 5 minutes of it is on the second voice recording.
 
 ### Some interesting insights from the interview:
-- Scroll through and scan for information, look for keywords.
-- Open in different tabs first.
-- Length of article/text.
-- Rely on Google's generated list to word questions better.
+
+#### Insights on K-12 education:
+- Learning more about K-12 education through word of mouth (10:24)
+  -  "...word of mouth, I'll reach out to you like my friends, my co workers will live in the same area to see their experience with these schools or school districts."
 - User's view on goverment websites (26:46)
   - "What are your thoughts while looking at this website? Very wordy. Looks a little outdated. Do you think the information is like overwhelming? Yeah. Pretty overwhelmed. And I'm not really sure where to look at...My overall statement of this is just that I mean, you know, it's like just any other government websites. Very formal, lots of information, overwhelming and cluttered."
+
+#### Insights on behavior when gathering information online:
+I found that many of the insights I made was behavioral, or how the user found information online. This will be extremely helpful as it lets me understand how someone from my target audience would navigate the web and different sites to find important information on the K-12 education system. (Many of these was non-verbal.)
+- Open in different tabs first
+- Length of article/text
+- Rely on Google's generated list to word questions better
+
 
 
 
 
 ## Step 6: Reflection
-I enjoyed the contextual inquiry process because it allowed me to make observations and learn from users freely. I learned a great deal about the users’ perspective and how they approach things. This activity allowed me to detach myself from the Nevada Department of Education website that I have been analyzing thus far and understand the users who would go onto websites like that. Much of my conversation and discussion was focused on the general topic of K-12 education, instead of the Nevada Department of Education website. It was important to get a better understanding of how users thought about this topic and how they gathered information on the topic. The user confirmed my initial thoughts about different government websites. She used words like outdated, formal, and cluttered to describe the California Department of Education. However, I also learned a lot from her behavior, which I have listed in the section above. Overall, it was a good learning experience as it allowed me to move away from my own lens and personal biases and gave me insight into this topic. 
+I enjoyed the contextual inquiry process because it allowed me to make observations and learn from users freely. I learned a great deal about the users’ perspective and how they approach things. This activity allowed me to detach myself from the Nevada Department of Education website that I have been analyzing thus far and understand the users who would go onto websites like that. Much of my conversation and discussion was focused on the general topic of K-12 education, instead of the Nevada Department of Education website. It was important to get a better understanding of how users thought about this topic and how they gathered information on the topic. The user confirmed my initial thoughts about different government websites. She used words like outdated, formal, and cluttered to describe the California Department of Education. However, I also learned a lot from her behavior, which I have listed in the section above. There was also a lot about the process of interviewing something and conducting an observation that I learned. For example, there was one minor hiccup when I forgot to enable participants' screen sharing. This is something I have to take note of for future referene. Overall, it was a good learning experience as it allowed me to move away from my own lens and personal biases and gave me insight into this topic. 
 
 
 
