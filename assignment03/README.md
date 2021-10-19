@@ -1,3 +1,6 @@
+# Assignment 3: Contextual Inquiry
+Aye Pyae | DH110 | Fall 2021
+
 ## Step 1: Specify the research goals & requirement
 ### What is the main activity your project would support?
 •	This project will support users in finding information on K-12 education, as well as the different kinds of educational systems in the United States.
