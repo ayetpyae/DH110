@@ -29,7 +29,7 @@ Due to the chaos of the pandemic, school districts and school administrators can
 
 **How is Sarah using this product?**  
 Her children just started their Zoom classes in their own rooms so she has some free time to browse the internet. While sitting at her dining table, she switches on her laptop and goes onto the Nevada Department of Education website in hopes of finding answers to some questions. With only thirty minutes to spare, she does not want to take too long searching for answers.  
-Once on the Nevada Department of Education website, she finds the live Chat Box button on the bottom right of the page. She clicks on it and a small window pops up. She has to input her contact information first, so as to ensure there are no trolls. She has the option to input her email address so that the transcript of their conversation can be saved and sent to her after it is over. After doing all of this and clicking next, she is then connected to a real person who has extensive knowledge on K-12 education (i.e. school adminstrator, staff, etc.).    
+Once on the Nevada Department of Education website, she finds the live chat box button on the bottom right of the page. She clicks on it and a small window pops up. She has to input her contact information first, so as to ensure there are no trolls. She has the option to input her email address so that the transcript of their conversation can be saved and sent to her after it is over. After doing all of this and clicking next, she is then connected to a real person who has extensive knowledge on K-12 education (i.e. school adminstrator, staff, etc.).    
 She then asks her questions. The person she is talking to answers her questions in real time. They also send Sarah links to the pages with more information. Sarah appreciates the person's helpfulness.  
 Sarah's children are almost done with their classes. She clicks on the leave chat button near the top of the window. Another window pops up with a Feedback form. 
 She fills out the feedback form, submits it, and turns off her laptop. She feels satisfied that her questions have been answered. 
@@ -38,9 +38,9 @@ She fills out the feedback form, submits it, and turns off her laptop. She feels
 
 ### 1. Daniel's Scenario and Journey Map
 **Why is Daniel using this product?**  
-Daniel is tech-savvy and turns to the internet for most of his questions. He wants to explore different programs that will be helpful for his teaching career. 
+Daniel is tech-savvy and turns to the internet for most of his questions. He wants to explore different programs that will be helpful for his teaching career. He also wants to learn more about what he can do for his students to make a difference in their lives. He wants to help them find programs and different activities they can do. As he is a young millenial, he is familiar with the web and other digital technologies. However, he gets frustrated when he comes across old interfaces that are not easy to use.  
 **How is Daniel using this product?**  
-organized navigation bar
+Daniel just finished teaching all of his classes for the day. He has quite a bit of free time before he meets his friends from college for dinner. He wants to learn more about organized navigation bar. He is pleasantly surprised to see the new and improved website. The navigation bar is much more organized and it is much easier to find the information that he needs. 
 
 **Daniel's Journey Map**
 
