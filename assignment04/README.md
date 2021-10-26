@@ -25,11 +25,16 @@ Based on my previous research, I have identified 2 features that needs to be imp
 ## Scenarios and Journey Map
 ### 1. Sarah's Scenario and Journey Map
 **Why is Sarah using this product?**
-Sarah
-**How is Sarah using this product?**
-Live chat
+Due to the chaos of the pandemic, school districts and school administrators cannot answer phone calls as they are not in their offices. Hence, she needs to turn to the internet to look for her answers. As her both of her children are still in elementary school, she wants to learn more about the education system beyond that. She is also curious about what schools are doing with online classes, as well as in-person classes. She has a lot of questions but finds it difficult to find the answers to her questions. Becuase she is not good with technology, she has been finding it stressful to help her children set up Zoom calls for their classrooms. She is also worried about schools reopening and the risks of COVID in the school setting.
 
-**Daniel's Journey Map**
+**How is Sarah using this product?**
+Her children just started their Zoom classes in their own rooms so she has some free time to browse the internet. While sitting at her dining table, she switches on her laptop and goes onto the Nevada Department of Education website in hopes of finding answers to some questions. With only thirty minutes to spare, she does not want to take too long searching for answers.  
+Once on the Nevada Department of Education website, she finds the live Chat Box button on the bottom right of the page. She clicks on it and a small window pops up. She has to input her contact information first, so as to ensure there are no trolls. She has the option to input her email address so that the transcript of their conversation can be saved and sent to her after it is over. After doing all of this and clicking next, she is then connected to a real person who has extensive knowledge on K-12 education (i.e. school adminstrator, staff, etc.).   
+She then asks her questions. The person she is talking to answers her questions in real time. They also send Sarah links to the pages with more information. Sarah appreciates the person's helpfulness.
+Sarah's children are almost done with their classes. She clicks on the leave chat button near the top of the window. Another window pops up with a Feedback form. 
+She fills out the feedback form, submits it, and turns off her laptop. She feels satisfied that her questions have been answered. 
+
+**Sarah's Journey Map**
 
 ### 1. Daniel's Scenario and Journey Map
 **Why is Sarah using this product?**
