@@ -38,14 +38,15 @@ She fills out the feedback form, submits it, and turns off her laptop. She feels
 ![JourneyMap1](https://user-images.githubusercontent.com/91553011/138904131-2d0a7d39-4fd9-4584-9051-e32998c3770e.png)
 
 
-### 1. Daniel's Scenario and Journey Map
+### 2. Daniel's Scenario and Journey Map
 **Why is Daniel using this product?**  
 Daniel is tech-savvy and turns to the internet for most of his questions. He wants to explore different programs that will be helpful for his teaching career. He also wants to learn more about what he can do for his students to make a difference in their lives. He wants to help them find programs and different activities they can do. As he is a young millenial, he is familiar with the web and other digital technologies. However, he gets frustrated when he comes across old interfaces that are not easy to use.
 
 **How is Daniel using this product?**  
 Daniel just finished teaching all of his classes for the day. He has quite a bit of free time before he meets his friends from college for dinner. He wants to learn more about organized navigation bar. He is pleasantly surprised to see the new and improved website. The navigation bar is much more organized and it is much easier to find the information that he needs. He likes that it is categorized accordingly and that it is intuitive to use.  
 He hovers over on the Educator tab and looks through the different sub-tabs. He clicks on the sub-tab called "Career Advancement". He scrolls through the page and opens up different pages that are hyperlinked on different tabs, so that he can go through them after a quick initial scan on the page.  
-After that, he hovers over on the Students tab and looks through the different sub-tabs. He finds one that says "Programs" and clicks on it. He scrolls through the page and opens up various hyperlinked pages on different tabs, so that he can go through them after a quick initial scan on the page.  
+After that, he hovers over on the Students tab and looks through the different sub-tabs. He finds one that says "Programs" and clicks on it. He scrolls through the page and opens up various hyperlinked pages on different tabs, so that he can go through them after a quick initial scan on the page. 
+He bookmarks the pages to the programs he is interested in onto his laptop to save them and turns off his laptop.
 
 **Daniel's Journey Map**
 ![JourneyMap2](https://user-images.githubusercontent.com/91553011/138904148-b4c50086-c419-4c23-9895-bcc6a4144024.png)
