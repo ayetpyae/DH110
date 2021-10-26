@@ -35,14 +35,19 @@ Sarah's children are almost done with their classes. She clicks on the leave cha
 She fills out the feedback form, submits it, and turns off her laptop. She feels satisfied that her questions have been answered. 
 
 **Sarah's Journey Map**
+![JourneyMap1](https://user-images.githubusercontent.com/91553011/138903592-1507e687-8e3f-4067-b864-f0c1d8fe0b02.png)
 
 ### 1. Daniel's Scenario and Journey Map
 **Why is Daniel using this product?**  
-Daniel is tech-savvy and turns to the internet for most of his questions. He wants to explore different programs that will be helpful for his teaching career. He also wants to learn more about what he can do for his students to make a difference in their lives. He wants to help them find programs and different activities they can do. As he is a young millenial, he is familiar with the web and other digital technologies. However, he gets frustrated when he comes across old interfaces that are not easy to use.  
+Daniel is tech-savvy and turns to the internet for most of his questions. He wants to explore different programs that will be helpful for his teaching career. He also wants to learn more about what he can do for his students to make a difference in their lives. He wants to help them find programs and different activities they can do. As he is a young millenial, he is familiar with the web and other digital technologies. However, he gets frustrated when he comes across old interfaces that are not easy to use.
+
 **How is Daniel using this product?**  
-Daniel just finished teaching all of his classes for the day. He has quite a bit of free time before he meets his friends from college for dinner. He wants to learn more about organized navigation bar. He is pleasantly surprised to see the new and improved website. The navigation bar is much more organized and it is much easier to find the information that he needs. 
+Daniel just finished teaching all of his classes for the day. He has quite a bit of free time before he meets his friends from college for dinner. He wants to learn more about organized navigation bar. He is pleasantly surprised to see the new and improved website. The navigation bar is much more organized and it is much easier to find the information that he needs. He likes that it is categorized accordingly and intuitive.  
+He clicks on the 
+He clicks on the programs for students tab.
 
 **Daniel's Journey Map**
+![JourneyMap2](https://user-images.githubusercontent.com/91553011/138903620-27f89ad2-0d2d-42d2-bc4e-7e3c5f88ea41.png)
 
 ## Reflection
 Coming up with personas and trying to think in my users' perspectives, while taking into account the findings and insights from my previous research was more challenging than I expected. It was a little difficult to move away from my biases and my own lens in viewing things. However, it was very fulfilling when I completed the persons, empathy maps, and journey maps. I now understand what user-centered design means and how to take into consideration my users' needs and wants when interacting with an application.
