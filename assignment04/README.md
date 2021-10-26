@@ -44,8 +44,8 @@ Daniel is tech-savvy and turns to the internet for most of his questions. He wan
 
 **How is Daniel using this product?**  
 Daniel just finished teaching all of his classes for the day. He has quite a bit of free time before he meets his friends from college for dinner. He wants to learn more about organized navigation bar. He is pleasantly surprised to see the new and improved website. The navigation bar is much more organized and it is much easier to find the information that he needs. He likes that it is categorized accordingly and that it is intuitive to use.  
-He hovers over the Educator tab and looks through the different sub-tabs. He clicks on the sub-tab called "Career Advancement". He scrolls through the page and opens up different pages that are hyperlinked on different tabs, so that he can go through them after a quick initial scan on the page.
-He clicks on the Programs for students tab.
+He hovers over on the Educator tab and looks through the different sub-tabs. He clicks on the sub-tab called "Career Advancement". He scrolls through the page and opens up different pages that are hyperlinked on different tabs, so that he can go through them after a quick initial scan on the page.  
+After that, he hovers over on the Students tab and looks through the different sub-tabs. He finds one that says "Programs" and clicks on it. He scrolls through the page and opens up various hyperlinked pages on different tabs, so that he can go through them after a quick initial scan on the page.  
 
 **Daniel's Journey Map**
 ![JourneyMap2](https://user-images.githubusercontent.com/91553011/138904148-b4c50086-c419-4c23-9895-bcc6a4144024.png)
