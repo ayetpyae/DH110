@@ -7,7 +7,7 @@ Aye Pyae | DH110 | Fall 2021
 - Create designs that focuses on users' needs through creating and analyzing personas in detail.
 
 ## Design Features
-Based on my previous research, I have identified 2 features that needs to be improved upon or implemented.
+Based on my previous research, I have identified 2 features that needs to be implemented or improved upon.
 - **Live chat**: A live chatbox feature will be helpful for getting answers to questions immediately - just like a phone call but digital instead.
 - **Navigation bar**: A more organized navigation bar needs to be created as the current one was found to be too cluttered.
 
