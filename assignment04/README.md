@@ -45,4 +45,4 @@ organized navigation bar
 **Daniel's Journey Map**
 
 ## Reflection
-Coming up with personas and trying to think in my users' perspectives, while taking into account the findings and insights from my previous research was more challenging than I expected. However, it was very fulfilling when I completed them. I understood what user-centered design was and how to take into consideration my users' needs and wants when interacting with an application.
+Coming up with personas and trying to think in my users' perspectives, while taking into account the findings and insights from my previous research was more challenging than I expected. It was a little difficult to move away from my biases and my own lens in viewing things. However, it was very fulfilling when I completed the persons, empathy maps, and journey maps. I now understand what user-centered design means and how to take into consideration my users' needs and wants when interacting with an application.
