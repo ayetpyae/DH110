@@ -5,7 +5,7 @@ Aye Pyae | DH110 | Fall 2021
 ### What is the main activity your project would support?
 - This project will support users in finding information on K-12 education, as well as the different kinds of educational systems in the United States.
 ### What is the basic need/goal involved for that activity?
-- This activity fulfills the user’s cognitive needs, as finding out information about something specific about K-12 education in the United States satisfies the user’s curiosity. By browsing the internet to scour for information, users will be able to satisfy their hunger for knowledge.
+- This activity fulfills the user’s cognitive needs, as finding out information about something specific about K-12 education in the United States satisfies the user’s curiosity. By browsing the internet to find information, users will be able to satisfy their hunger for knowledge.
 ### What is(are) the traditional/current solution(s) to satisfy the needs?
 - The traditional solution to finding information on K-12 education would be by calling local school districts, or through word-of-mouth from other parents, administrators, teachers, etc. Users can also go online to find information by reading blogs and news articles, watching videos, and visiting websites such as the state Department of Education website.
 - With COVID-19 came the need for digitized information, as people are not able to meet face to face. People increasingly relied on information online. However, this was difficult because some sites were not up to date or correct.
