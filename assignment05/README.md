@@ -23,7 +23,7 @@ The user personas and scenarios I created are the following:
 ![DH110lowfiprototype-5](https://user-images.githubusercontent.com/91553011/139854007-4caf4773-ef59-4245-971a-5b969705cd71.jpg)
 
 ## Low Fidelity Prototype Testing
-I conducted the low fidelity prototype testing in person and my participant used my iPad to connect the wireframes and I screen recorded the process. I guided her to try out the features and complete the tasks. She talked out loud throughout the process and noted the places where she was confused. The [video](https://drive.google.com/file/d/1NsBdAfZqXOv2WWshxM59m9dQJbyNXiPw/view?usp=sharing) can be found here.
+I conducted the low fidelity prototype testing in person and my participant used my iPad to connect the wireframes and I screen recorded the process. I guided her to try out the features and complete the tasks. She talked out loud throughout the process and noted the places where she was confused. **The [video](https://drive.google.com/file/d/1NsBdAfZqXOv2WWshxM59m9dQJbyNXiPw/view?usp=sharing) can be found here.**
 
 ![Low Fidelity Prototype Testing-2](https://user-images.githubusercontent.com/91553011/139855161-7b12f892-9abe-4086-9727-53285974818c.jpg)
 ![Low Fidelity Prototype Testing-3](https://user-images.githubusercontent.com/91553011/139855190-cc8b4c07-ef42-4450-a7c8-386add4c6480.jpg)
@@ -31,10 +31,7 @@ I conducted the low fidelity prototype testing in person and my participant used
 
 
 ## Reflection
-+1: Summary of the process, what went smoothly or differently from your expectation
-+1: What you would change or design differently based on the feedback you got from the prototype testing. 
-
-Overall, the testing went smoothly and there were no major hiccups as the participant was able to complete the tasks easily. Based on the feedback I got from the prototype testing, the following are some things I would change:
+The testing went smoothly and there were no major hiccups as the participant was able to complete the tasks easily. Based on the feedback I got from the prototype testing, the following are some things I would change:
 - Tabs: I drew the tabs (Open tab from chat, Contact) by darkening the background and drawing rounded corners on the top. However, my participant did not seem to realize that these were supposed to be tabs and that when she exits out of them, she would go back to the previous screen. She thought exiting from the tabs would lead to the next screen. I need to make them a little more explicit. Another thing is that I drew the screens in order so that kind of gave it away and my participant simply connected the screens from left to right, top to bottom. 
 - Unnecessary "x"s: For many of the screens, I put an "x" on the top right corner so that the users can exit out of whereerver they were and go back to home. However, my participant noted that some of the screens did not need them as there was already a back to home button. 
 - Better links between screens: My participant noted that for the second task that there was not an explicit link between the educator\career and educator\pop-up pages. I think I could combine the two screens into just one to make it more user-friendly. I put too many screens that were not useful.
