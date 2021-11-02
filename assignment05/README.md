@@ -23,7 +23,7 @@ The user personas and scenarios I created are the following:
 ![DH110lowfiprototype-5](https://user-images.githubusercontent.com/91553011/139854007-4caf4773-ef59-4245-971a-5b969705cd71.jpg)
 
 ## Low Fidelity Prototype Testing
-I conducted the low fidelity prototype testing in person and my participant used my iPad to connect the wireframes and I screen recorded the process. I guided her to try out the features and complete the tasks. She talked out loud throughout the process and noted the places where she was confused. The ![video](https://drive.google.com/file/d/1NsBdAfZqXOv2WWshxM59m9dQJbyNXiPw/view?usp=sharing) can be found here.
+I conducted the low fidelity prototype testing in person and my participant used my iPad to connect the wireframes and I screen recorded the process. I guided her to try out the features and complete the tasks. She talked out loud throughout the process and noted the places where she was confused. The [video](https://drive.google.com/file/d/1NsBdAfZqXOv2WWshxM59m9dQJbyNXiPw/view?usp=sharing) can be found here.
 
 ![Low Fidelity Prototype Testing-2](https://user-images.githubusercontent.com/91553011/139855161-7b12f892-9abe-4086-9727-53285974818c.jpg)
 ![Low Fidelity Prototype Testing-3](https://user-images.githubusercontent.com/91553011/139855190-cc8b4c07-ef42-4450-a7c8-386add4c6480.jpg)
