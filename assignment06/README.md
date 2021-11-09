@@ -19,6 +19,7 @@ Aye Pyae | DH110 | Fall 2021
 
 ## Accessibility check
 +1: Provide the evidence of checking the color contrast for the accessibility WCAG2.0 AA level. (ex. Spark plugin test screenshot)
+check the color contrast between 1) background vs. text colors; 2) background vs. component/button colors; and 3) button background color vs. button text label colors. 
 
 ## Design System
 +1: provide a summary of graphic design including
