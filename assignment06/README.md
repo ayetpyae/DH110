@@ -28,6 +28,13 @@ The current Nevada Department of Education website looks old, formal, and clutte
 
 ## Design System
 Typeface:
+| Scale Category  | Typeface | Weight | Size | Case | Letter Spacing
+| ------------- | ------------- | --- | --- | --- | --- |
+Title | Lato | Bold | 36 | Sentence | -1%
+Subtitle | Catamaran | Regular | 24 | Sentence | 0%
+Body | Catamaran | Regular | 16 | Sentence | 0.5%
+Button | Catamaran | SemiBold | 16 | All caps | 1.25%
+Caption | Catamaran | Light | 14 | Sentence | 0%
 
 Colors:
 
