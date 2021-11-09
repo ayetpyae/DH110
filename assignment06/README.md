@@ -46,7 +46,7 @@ Caption | Catamaran | Light | 14 | Sentence | 0%
 I liked the combination of Lato and Catamaran the best as it was the most cohesive. I liked that both of these typefaces offered a lot of different weights, which could be utilized to create depth and hiearchy. 
 
 ### Colors:
-<img width="603" alt="colorpalette" src="https://user-images.githubusercontent.com/91553011/140942446-f4989020-4045-41b1-be6e-e49db695df82.png">
+<img width="418" alt="colorpalette" src="https://user-images.githubusercontent.com/91553011/140947803-40cf3dd8-eeed-469c-a5fb-8c330518ef5a.png">
 I decided to go with an analogous color scheme that largely resembles the current Nevada Dept of Education website. I initially tried out a complementary color scheme to make it a little more colorful with blue and orange. However, the orange did not pass the accessibility (color contrast) test, so I decided to change it to analogous scheme. I tried to use darker blues so as to make it look formal. The original background has an image but I decided not to leave it with an image due to accessibility issues and instead, I made it a solid color with a tint of blue (#F8FAFB). I also added subtle drop shadows to the buttons to make them pop a little. 
 
 ### Layout grid + spacing:
