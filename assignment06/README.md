@@ -2,8 +2,7 @@
 Aye Pyae | DH110 | Fall 2021
 
 ## Introduction
-+1: Brief summary of the project, the process and the purpose of this Interface design, the example wireframe, and the URL link to your prototype tool page that shows the full screen design tests.
-
+The current Nevada Department of Education website looks old, formal, and cluttered. This was found to be the case after I conducted my user testing as well as my contextual inquiry. In this assignment, I will be testing out different interface designs to make improvements to the Nevada Department of Education website. I will be testing out different typefaces and fonts, shapes, as well as colors. I will also be taking into consideration accessibility, particularly color contrast. All of these will be done on the homepage. The homepage is the most important page as it sets the tone for the rest of the website. Here is the link to the [figma file](https://www.figma.com/file/trP3i7bvv5q4Fne0HNCsaw/Interface-Design?node-id=9%3A736) with the design variations. (Each section is on a different page)
 
 ## Screen Design
 ### Typography variations:
@@ -13,21 +12,27 @@ Aye Pyae | DH110 | Fall 2021
 <img width="485" alt="shapes" src="https://user-images.githubusercontent.com/91553011/140933374-0ccee7de-f5fc-4d7e-8571-0d433d2e1d76.png">
 
 ### Color variations:
-<img width="371" alt="colors" src="https://user-images.githubusercontent.com/91553011/140933372-2d03d9ca-580e-4e51-8ec1-d141044d65f0.png">
+<img width="396" alt="colors" src="https://user-images.githubusercontent.com/91553011/140935997-de2da31f-b8ce-4c2e-b58c-25e8c3b0e31e.png">
 
 ### Layout
-<img width="181" alt="layout" src="https://user-images.githubusercontent.com/91553011/140933368-b84e02e8-9b7d-43fd-9a1a-cb37dfccd2ef.png">
+<img width="197" alt="layout" src="https://user-images.githubusercontent.com/91553011/140936026-1c62f1ad-64e7-4836-a2c5-6f223b465836.png">
+
 
 ## Impression Test
 +1: Provide the evidence of impression test with the raw data (video/audio recording) or the quotation/transcript
 +1: Summary of findings 
 
 
-## Accessibility check
-+1: Provide the evidence of checking the color contrast for the accessibility WCAG2.0 AA level. (ex. Spark plugin test screenshot)
-check the color contrast between 1) background vs. text colors; 2) background vs. component/button colors; and 3) button background color vs. button text label colors. 
+## Accessibility check 
+<img width="361" alt="Accessibilitycheck" src="https://user-images.githubusercontent.com/91553011/140936239-824670f5-adac-4bd5-a326-e080fd2b94ae.png">
 
 ## Design System
+Typeface:
+
+Colors:
+
+Layout grid + spacing:
+
 +1: provide a summary of graphic design including
 Typeface family + size
 Color scheme: background, primary (default text), focus (ex. button)
