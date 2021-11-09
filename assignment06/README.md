@@ -18,14 +18,14 @@ I tested out the roundedness of the shapes, as well as their sizes.
 ### Color variations:
 <img width="396" alt="colors" src="https://user-images.githubusercontent.com/91553011/140935997-de2da31f-b8ce-4c2e-b58c-25e8c3b0e31e.png">
 
-### Layout
+### Layout:
 <img width="197" alt="layout" src="https://user-images.githubusercontent.com/91553011/140936026-1c62f1ad-64e7-4836-a2c5-6f223b465836.png">
 
 
 ## Impression Test
 "Looks cohesive...Simple. It looks like there's a lot of blank space here (pointing at the area underneath search bar). But much better than the current one..."
 
-I asked my participant to compare the homepage I designed with the original homepage. Overall, they told me that they liked my design and that it looked simple and clean. However, they said that they would like it if there was a short description of what the Department of Education of Nevada does. They also pointed out that it looked a little empty. I will be making changes based on what they said and I will be implementing them. 
+I asked my participant to compare the homepage I designed with the original homepage. Overall, they told me that they liked my design and that it looked simple and clean. However, they said that they would like it if there was a short description of what the Department of Education of Nevada does. They thought that I could add a little bit more information about it. They also pointed out that it looked a little empty. I will be making changes based on what they said and I will be implementing them. For my final screens, I will be making it so that the page can be scrolled and more information can be obtained. 
 
 ## Accessibility check 
 <img width="361" alt="Accessibilitycheck" src="https://user-images.githubusercontent.com/91553011/140936239-824670f5-adac-4bd5-a326-e080fd2b94ae.png">
