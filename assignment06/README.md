@@ -28,7 +28,7 @@ I read the guidelines provided by https://material.io/design/layout/responsive-l
 
 I asked my participant to compare the homepage I designed with the original homepage. Overall, they told me that they liked my design and that it looked simple and clean. However, they said that they would like it if there was a short description of what the Department of Education of Nevada does. They thought that I could add a little bit more information about it. They also pointed out that it looked a little empty. I will be making changes based on what they said and I will be implementing them. For my final screens, I will be making it so that the page can be scrolled and more information can be obtained. 
 
-Note: I did not get an audio or video recording as I forgot to record.
+Note: I did not get an audio or video recording as I forgot to record. However, I took notes as my participant looked at it. 
 
 ## Accessibility check 
 <img width="361" alt="Accessibilitycheck" src="https://user-images.githubusercontent.com/91553011/140936239-824670f5-adac-4bd5-a326-e080fd2b94ae.png">
