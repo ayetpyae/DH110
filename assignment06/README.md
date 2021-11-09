@@ -13,14 +13,15 @@ The third variation I tested out was the combination of Rubik and Karla.
 
 ### Shape variations:
 <img width="485" alt="shapes" src="https://user-images.githubusercontent.com/91553011/140933374-0ccee7de-f5fc-4d7e-8571-0d433d2e1d76.png">
-I tested out the roundedness of the shapes, as well as their sizes. 
+I tested out the roundedness of the shapes, as well as their sizes. I liked the first one the best as I felt like it was the most balanced. The second one was too round, which I thought made it look a little casual and informal. The third one was just for fun. It is too "fun" for a state government website in my opinion. 
 
 ### Color variations:
 <img width="396" alt="colors" src="https://user-images.githubusercontent.com/91553011/140935997-de2da31f-b8ce-4c2e-b58c-25e8c3b0e31e.png">
+I chose to do light and dark modes for the color variations. 
 
 ### Layout:
 <img width="197" alt="layout" src="https://user-images.githubusercontent.com/91553011/140936026-1c62f1ad-64e7-4836-a2c5-6f223b465836.png">
-
+I read the guidelines provided by https://material.io/design/layout/responsive-layout-grid.html#columns-gutters-and-margins to determine how many columns and rows I should use, as well as what to set the margins and gutters as. 
 
 ## Impression Test
 "Looks cohesive...Simple. It looks like there's a lot of blank space here (pointing at the area underneath search bar). But much better than the current one..."
@@ -48,5 +49,5 @@ I decided to go with an analogous color scheme that largely resembles the curren
 
 ### Layout grid + spacing:
 <img width="384" alt="layoutgrid" src="https://user-images.githubusercontent.com/91553011/140944183-3b5a7dc6-d82b-45f5-863c-be77ced42e10.png">
-I read the guidelines provided by https://material.io/design/layout/responsive-layout-grid.html#columns-gutters-and-margins to determine how many columns and rows I should use, as well as what to set the margins and gutters as. 
+I struggled the most with deciding the layout grid and spacing. I was unsure of how many columns and rows I should use and how wide or narrow the gutters and margins should be. I decided to play around with it and this was what I got in the end.  
 
