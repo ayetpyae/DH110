@@ -7,9 +7,13 @@ The current Nevada Department of Education website looks old, formal, and clutte
 ## Screen Design
 ### Typography variations:
 <img width="514" alt="typography" src="https://user-images.githubusercontent.com/91553011/140933376-e5d6c983-b7de-405d-b71a-f0757db820fb.png">
+The first variation I tested out was the combination of Raleway and Open Sans.
+The second variation I tested out was the combination of Lato and Catamaran.
+The third variation I tested out was the combination of Rubik and Karla. 
 
 ### Shape variations:
 <img width="485" alt="shapes" src="https://user-images.githubusercontent.com/91553011/140933374-0ccee7de-f5fc-4d7e-8571-0d433d2e1d76.png">
+I tested out the roundedness of the shapes, as well as their sizes. 
 
 ### Color variations:
 <img width="396" alt="colors" src="https://user-images.githubusercontent.com/91553011/140935997-de2da31f-b8ce-4c2e-b58c-25e8c3b0e31e.png">
@@ -21,7 +25,7 @@ The current Nevada Department of Education website looks old, formal, and clutte
 ## Impression Test
 +1: Provide the evidence of impression test with the raw data (video/audio recording) or the quotation/transcript
 +1: Summary of findings 
-
+"Looks cohesive. 
 
 ## Accessibility check 
 <img width="361" alt="Accessibilitycheck" src="https://user-images.githubusercontent.com/91553011/140936239-824670f5-adac-4bd5-a326-e080fd2b94ae.png">
@@ -36,7 +40,11 @@ Body | Catamaran | Regular | 16 | Sentence | 0.5%
 Button | Catamaran | SemiBold | 16 | All caps | 1.25%
 Caption | Catamaran | Light | 14 | Sentence | 0%
 
+I liked the combination of Lato and Catamaran the best as it was the most cohesive. I liked that both of these typefaces offered a lot of different weights, which could be utilized to create depth and hiearchy. 
+
 Colors:
+<img width="603" alt="colorpalette" src="https://user-images.githubusercontent.com/91553011/140942446-f4989020-4045-41b1-be6e-e49db695df82.png">
+I decided to go with an analogous color scheme that largely resembles the current Nevada Dept of Education website. I initially tried out a complementary color scheme to make it a little more colorful with blue and orange. However, the orange did not pass the accessibility (color contrast) test, so I decided to change it to analogous scheme. I tried to use darker blues so as to make it look formal. The original background has an image but I decided not to leave it with an image due to accessibility issues and instead, I made it a solid color with a tint of blue. I also added subtle drop shadows to the buttons to make them pop a little. 
 
 Layout grid + spacing:
 
