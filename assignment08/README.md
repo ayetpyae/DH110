@@ -1,4 +1,6 @@
-1) Project title + Your name
+# Accessible Nevada Department of Education Website
+## Aye Pyae
+
 2) Introduction: a brief information about the project. 
 What is the project about? The motivation of the project and possible contribution.
 3) Clear design statement: 
