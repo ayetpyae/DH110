@@ -18,7 +18,7 @@ Summary and link to your assignment folder
 Summary and link to the sketches (may contains the multiple versions and evaluation history)
 ## High-fidelity prototype (functional/interactive prototype, assignment08)
 Summary statement and link to or an embedded prototype
-## Optional evaluation and revision history 
+## Evaluation and revision history 
 Including cognitive walkthrough; impression test, accessibility audit, usability testing), per each summary and link to the notes (when you share the video or other detailed evidences, I will notify you when you can make the contents private as soon as your work is graded)
 ## Pitch video 
 ## Conclusion: what did you learn throughout the process?
