@@ -24,6 +24,8 @@ Here is the link to the [figma file](https://www.figma.com/file/trP3i7bvv5q4Fne0
   a. Schedule an appointment to do so.
 
 ## Wireframe with interface design and wireflow
+<img width="575" alt="autoflow" src="https://user-images.githubusercontent.com/91553011/142672019-6a977523-b8e5-40d6-997d-bf7c2cc10793.png">
+
 <img width="560" alt="wireflow" src="https://user-images.githubusercontent.com/91553011/142668485-6773838b-2296-48a4-a87f-c527c095a571.png">
 
 ## Prototype
