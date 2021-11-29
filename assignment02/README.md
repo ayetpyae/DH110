@@ -18,7 +18,7 @@ The moderator will introduce the usability test process, as well as ask for info
 ## Survey Link
 Here is a link to the [moderator script and participant survey](https://docs.google.com/forms/d/e/1FAIpQLSeMsN081u3SI1t7rcR8iggcKMCPffTB0q1OGxRSTWWvwvnZcw/viewform).  
 
-Note: Dr Cho, I added you as a collaborator and you can edit and view the results of the survery with your email address.
+Note: Professor Cho, I added you as a collaborator and you can edit and view the results of the survery with your email address.
 
 ## Video 
 Here is the link to the [video](https://youtu.be/dCeh2q9mAJI).
@@ -29,4 +29,4 @@ The pilot usability test confirmed what I found out about the Nevada DOE website
 
 Besides that, I also learned a great deal about the usabilty testing process. I finally understood why this process is so costly and time consuming. First of all, it took a lot of time to explore website and come up with tasks as the moderator. I learned to think like a user while doing this, but I still could not see from the user's perspective. I finally understood this after conducting the pilot test and witnessing firsthand how someone else would navigate the website. I also found it extrememly valuable that the participant articulated all her concerns and frustrations while completing the tasks and exploring the website. 
 
-Overall, aLthough there were a few hiccups here and there as it was my first time conducting a usability test, it went pretty well. The participant was eager and worked on the tasks actively, and the test flowed smoothly. However, there were some issues that could be improved upon. Firstly, as my laptop did not capture the sound very well, so some of the audio is extremely muffled, making it difficult to make out what the participant is saying. This can be fixed by using a different laptop or by using a audio recorder on a different device. Next, I made some typos on the form and the wording of the tests needed some clarification from the participant. When I conduct the actual test, I will add more tasks which can provide me with more insight into the user's experience while navigating the website. 
+Overall, although there were a few hiccups here and there as it was my first time conducting a usability test, it went pretty well. The participant was eager and worked on the tasks actively, and the test flowed smoothly. However, there were some issues that could be improved upon. Firstly, as my laptop did not capture the sound very well, some of the audio is extremely muffled, making it difficult to make out what the participant is saying. This can be fixed by using a different laptop or by using a audio recorder on a different device. Next, I made some typos on the form and the wording of the tests needed some clarification from the participant. When I conduct the actual test, I will add more tasks which can provide me with more insight into the user's experience while navigating the website. 
