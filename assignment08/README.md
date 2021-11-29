@@ -39,11 +39,16 @@ Through this, I gained a better understanding of how users thought about the top
 Find the link to the [full contextual inquiry](https://github.com/ayetpyae/DH110/tree/main/assignment03) here.
 
 ## UX Storytelling - Personas and Scenarios
-Next, I created personas and empathy maps and came up with scenarios and journey maps in order to:
+Next, I created personas and empathy maps and came up with scenarios and journey maps in order to
 - understand the users from their perspectives and see how they view the world, 
 - recognize target users' behaviors, pain points, goals, challenges, and more, and 
 - create designs that focuses on users' needs through creating and analyzing personas in detail.
-- 
+Through this process, I understood what user-centered design means and how to take into consideration my users' needs and wants when interacting with an application.
+
+Here is an example of a persona I created. 
+![Persona1](https://user-images.githubusercontent.com/91553011/138891357-aba2c7a9-1d24-4255-aed4-f5c7c611afe3.png)
+
+Find the link to the [full UX storytelling](https://github.com/ayetpyae/DH110/tree/main/assignment04) here.
 ## Wireframe and graphic design element variation [assignment06 + part of 07]
 ## Low-fidelity prototype (wireflow, assignment06)
 Summary and link to the sketches (may contains the multiple versions and evaluation history)
