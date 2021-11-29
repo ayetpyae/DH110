@@ -1,7 +1,7 @@
 # Assignment 2: Usability Testing
 Aye Pyae | DH110 | Fall 2021
 ## Introduction
-The Nevada's Department of Education (DOE) oversees the public K-12 education system in Nevada. The website provides all the information on K-12 education for all people from educators to parents and students. It also has on information on COVID-19 and how they are dealing with it.
+The Nevada's Department of Education (DOE) oversees the public K-12 education system in Nevada. The website provides all the information on K-12 education for all people from educators to parents and students. It also has information on COVID-19 and how they are dealing with it.
 
 After conducted a heuristic evaluation on the Nevada DOE Website, many usability concerns emerged. First, the entire website is cluttered and overloaded with information. There is no hierarchy of information and the entire website in general is not user friendly. There are too many tabs with too many drop down options which can confuse users. The website scored a 3 on the severity rating on the aesthetic and minimalist design heuristic. Second, the website did poorly on the recognition rather than recall heuristic, as the search bar does not remember user's previous searches, which makes it difficult for users to remember what they have already looked up and what they have not. Third, the website scored a 3 on the severity rating for the help and documentation heuristic. The FAQ page is hidden all the way at the bottom of the first menu tab and is not visible.
 
