@@ -20,15 +20,30 @@ Find the link to the [full heuristics evaluation](https://github.com/ayetpyae/DH
 ### Usability Testing
 Given the concerns uncovered from the heuristics evaluation, I conduct a usability test to understand the extent to which the design of the website hinders users' ability to use the website to find information on the Department of Education. The test captured the effectiveness, efficiency, and satisfaction of the Nevada DOE website. The goal of this test was to empathise with users and make improvements to the website by understanding the user's perspective. I asked my participant to perform three tasks:
 1. Find the internship page of the website and complete some tasks. Here, I tried to understand how college students may navigate the website. 
-2. Find information on one of the many programs that are listed on the website, which is the English Language Learner Program. It illuminated the degree to which the cluttered information and the many tabs with too many drop down options hinders users' ability to find information they need. 
+2. Find information on one of the many programs that are listed on the website, which is the English Language Learner Program. It illuminated the degree to which the cluttered information and the many tabs with too many drop down options hinder users' ability to find information they need. 
 3. Find the FAQ and contact us pages. I found out the extent to which users struggle with this task and justified the website scoring a 3 on the severity rating for the help and documentation heuristic.
 
 Find the link to the [full usability testing](https://github.com/ayetpyae/DH110/blob/main/assignment02/README.md) here.
 
-## User research [contextual inquiry, assignment04]:
-Summary and link to your assignment folder
-## UX storytelling [persona+scenario, assignment05]
-Summary and link to your assignment folder
+## User Research - Contextual Inquiry:
+After conducting usability testing, I sought to understand users and how they navigated the web to find information on the general topic of K-12 education. I decided to use a combination of two methods to do so: participatory observation and interview.
+- For participatory observation I observed how my participant gathered her information online.
+- For the interview, I asked her some questions on her thoughts on K-12 education and her ways of finding information on that topic (online, word-of-mouth, etc.)
+
+Through this, I gained a better understanding of how users thought about the topic of K-12 education and how they gathered information on the topic. The user confirmed my initial thoughts about different government websites. She used words like outdated, formal, and cluttered to describe the California Department of Education. I also learned a lot from her behavior. The following are some insights I made from the activity:
+- Word of mouth is an important way to gain information about K-12 education
+- User's view on government websites: formal, lots of information, overwhelming, and cluttered
+- Users rely on the generated list of questions and keywords to find more relevant information
+- Users are more inclined to read text that are more organized
+
+Find the link to the [full contextual inquiry](https://github.com/ayetpyae/DH110/tree/main/assignment03) here.
+
+## UX Storytelling - Personas and Scenarios
+Next, I created personas and empathy maps and came up with scenarios and journey maps in order to:
+- understand the users from their perspectives and see how they view the world, 
+- recognize target users' behaviors, pain points, goals, challenges, and more, and 
+- create designs that focuses on users' needs through creating and analyzing personas in detail.
+- 
 ## Wireframe and graphic design element variation [assignment06 + part of 07]
 ## Low-fidelity prototype (wireflow, assignment06)
 Summary and link to the sketches (may contains the multiple versions and evaluation history)
