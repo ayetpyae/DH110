@@ -55,13 +55,13 @@ Find the link to the [full documentation of the UX storytelling](https://github.
 ## Low-fidelity prototype
 After conducting user research and gaining a greater understanding of the product/service I was working on for the project, I finally started designing the actual app. I decided that the two main features I wanted to improve and/implement were a live chatbox and a more organized menu.(CHANGEEEE)
 
-**Wireframes and Wireflows**
+**Wireframes and Wireflows**  
 I first started by sketching wireframes and drawing wireflows. 
 ![DH110lowfiprototype-3](https://user-images.githubusercontent.com/91553011/139853946-be757980-ed94-4c35-bee4-5cfdcc52f85d.jpg)
 ![DH110lowfiprototype-4](https://user-images.githubusercontent.com/91553011/139853986-b3013946-8811-48a4-8d9b-037adc8d5c46.jpg)
 ![DH110lowfiprototype-5](https://user-images.githubusercontent.com/91553011/139854007-4caf4773-ef59-4245-971a-5b969705cd71.jpg)
 
-**Low-fidelity prototype testing**
+**Low-fidelity prototype testing**  
 Next, I conducted a low-fidelity prototype test by asking a participant to connect the wireframes that I created and I screen recorded the process. I guided her to try out the features and complete the tasks. She talked out loud throughout the process and noted the places where she was confused. The [video](https://drive.google.com/file/d/1NsBdAfZqXOv2WWshxM59m9dQJbyNXiPw/view?usp=sharing) can be found here.
 
 Afterwards, I made changes accordingly and created a digitized wireflow and low-fidelity prototype. The link to the [digitized low-fidelity prototype](https://www.figma.com/file/trP3i7bvv5q4Fne0HNCsaw/NevadaDeptOfEducationProject?node-id=0%3A1) can be found here. 
