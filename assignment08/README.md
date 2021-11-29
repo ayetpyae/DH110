@@ -16,14 +16,15 @@ I analyzed the usability of the Nevada Department of Education website using Jak
 2. The website did **poorly on the recognition rather than recall heuristic**. The search bar does not remember user's previous searches, which makes it difficult for users to remember what they have already looked up and what they have not. 
 3. The website **scored a 3 on the severity rating for the help and documentation heuristic**. The FAQ page is hidden all the way at the bottom of the first menu tab and is not visible.  
 
-Find the link to the [full heuristics evaluation](https://github.com/ayetpyae/DH110/blob/main/assignment01/README.md) here. 
+Find the link to the [full documentation of the heuristics evaluation](https://github.com/ayetpyae/DH110/blob/main/assignment01/README.md) here. 
+
 ### Usability Testing
 Given the concerns uncovered from the heuristics evaluation, I conduct a usability test to understand the extent to which the design of the website hinders users' ability to use the website to find information on the Department of Education. The test captured the effectiveness, efficiency, and satisfaction of the Nevada DOE website. The goal of this test was to empathise with users and make improvements to the website by understanding the user's perspective. I asked my participant to perform three tasks:
 1. Find the internship page of the website and complete some tasks. Here, I tried to understand how college students may navigate the website. 
 2. Find information on one of the many programs that are listed on the website, which is the English Language Learner Program. It illuminated the degree to which the cluttered information and the many tabs with too many drop down options hinder users' ability to find information they need. 
 3. Find the FAQ and contact us pages. I found out the extent to which users struggle with this task and justified the website scoring a 3 on the severity rating for the help and documentation heuristic.
 
-Find the link to the [full usability testing](https://github.com/ayetpyae/DH110/blob/main/assignment02/README.md) here.
+Find the link to the [full documentation of the usability testing](https://github.com/ayetpyae/DH110/blob/main/assignment02/README.md) here.
 
 ## User Research - Contextual Inquiry:
 After conducting usability testing, I sought to understand users and how they navigated the web to find information on the general topic of K-12 education. I decided to use a combination of two methods to do so: participatory observation and interview.
@@ -36,7 +37,7 @@ Through this, I gained a better understanding of how users thought about the top
 - Users rely on the generated list of questions and keywords to find more relevant information
 - Users are more inclined to read text that are more organized
 
-Find the link to the [full contextual inquiry](https://github.com/ayetpyae/DH110/tree/main/assignment03) here.
+Find the link to the [full documentation of the contextual inquiry](https://github.com/ayetpyae/DH110/tree/main/assignment03) here.
 
 ## UX Storytelling - Personas and Scenarios
 Next, I created 2 personas and empathy maps and came up with scenarios and journey maps in order to
@@ -49,10 +50,23 @@ Here are the personas I created:
 ![Persona1](https://user-images.githubusercontent.com/91553011/138891357-aba2c7a9-1d24-4255-aed4-f5c7c611afe3.png)
 ![Persona2](https://user-images.githubusercontent.com/91553011/138891674-86bb229b-3ba9-4f9a-b75b-1ad6badb6643.png)
 
-Find the link to the [full UX storytelling](https://github.com/ayetpyae/DH110/tree/main/assignment04) here.
+Find the link to the [full documentation of the UX storytelling](https://github.com/ayetpyae/DH110/tree/main/assignment04) here.
 
 ## Low-fidelity prototype
-After conducting user research and gaining a greater understanding of the product/service I was working on for the project, I finally started designing the actual app. I decided that the two main features I want to improve and/implement are a live chatbox and a more organized menu.(CHANGEEEE) I first started by sketching wireframes and drawing wireflows. Next, I conducted a low-fidelity prototype test. Afterwards, I made changes accordingly and created a digitized wireflow and low-fidelity prototype. 
+After conducting user research and gaining a greater understanding of the product/service I was working on for the project, I finally started designing the actual app. I decided that the two main features I wanted to improve and/implement were a live chatbox and a more organized menu.(CHANGEEEE)
+
+**Wireframes and Wireflows**
+I first started by sketching wireframes and drawing wireflows. 
+![DH110lowfiprototype-3](https://user-images.githubusercontent.com/91553011/139853946-be757980-ed94-4c35-bee4-5cfdcc52f85d.jpg)
+![DH110lowfiprototype-4](https://user-images.githubusercontent.com/91553011/139853986-b3013946-8811-48a4-8d9b-037adc8d5c46.jpg)
+![DH110lowfiprototype-5](https://user-images.githubusercontent.com/91553011/139854007-4caf4773-ef59-4245-971a-5b969705cd71.jpg)
+
+**Low-fidelity prototype testing**
+Next, I conducted a low-fidelity prototype test by asking a participant to connect the wireframes that I created and I screen recorded the process. I guided her to try out the features and complete the tasks. She talked out loud throughout the process and noted the places where she was confused. The [video](https://drive.google.com/file/d/1NsBdAfZqXOv2WWshxM59m9dQJbyNXiPw/view?usp=sharing) can be found here.
+
+Afterwards, I made changes accordingly and created a digitized wireflow and low-fidelity prototype. The link to the [digitized low-fidelity prototype](https://www.figma.com/file/trP3i7bvv5q4Fne0HNCsaw/NevadaDeptOfEducationProject?node-id=0%3A1) can be found here. 
+
+Find the link to the [full documentation of the wireframes and low-fidelity prototype](https://github.com/ayetpyae/DH110/blob/main/assignment05/README.md) here. 
 
 ## Interface Design
 
