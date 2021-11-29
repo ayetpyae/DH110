@@ -64,16 +64,20 @@ I first started by sketching wireframes and drawing wireflows.
 **Low-fidelity prototype testing**  
 Next, I conducted a low-fidelity prototype test by asking a participant to connect the wireframes that I created and I screen recorded the process. I guided her to try out the features and complete the tasks. She talked out loud throughout the process and noted the places where she was confused. The [video](https://drive.google.com/file/d/1NsBdAfZqXOv2WWshxM59m9dQJbyNXiPw/view?usp=sharing) can be found here.
 
-Afterwards, I made changes accordingly and created a digitized wireflow and low-fidelity prototype. The link to the [digitized low-fidelity prototype](https://www.figma.com/file/trP3i7bvv5q4Fne0HNCsaw/NevadaDeptOfEducationProject?node-id=0%3A1) can be found here. 
+Afterwards, I made changes accordingly and created a digitized wireflow and low-fidelity prototype. Here is the link to the [digitized low-fidelity prototype](https://www.figma.com/file/trP3i7bvv5q4Fne0HNCsaw/NevadaDeptOfEducationProject?node-id=0%3A1).
 
 Find the link to the [full documentation of the wireframes and low-fidelity prototype](https://github.com/ayetpyae/DH110/blob/main/assignment05/README.md) here. 
 
 ## Interface Design
+After creating the low-fidelity prototype, I started on the interface design. I tested out different typefaces and fonts, shapes, as well as colors. I also took into consideration accessibility, particularly color contrast. All of these were done on the homepage. The homepage is the most important page as it sets the tone for the rest of the website. Here is the link to the [figma file](https://www.figma.com/file/trP3i7bvv5q4Fne0HNCsaw/Interface-Design?node-id=9%3A961) with the design variations. (Each section is on a different page)
 
 ## High-fidelity prototype (functional/interactive prototype, assignment08)
-Summary statement and link to or an embedded prototype
+After creating the low-fidelity protoype and testing out different interface designs, I started the interactive prototype process. The purpose of this is to better visualize the functions of various features I wish to implement.
+-imbed figma file here-
+
 ## Evaluation and revision history 
 Including cognitive walkthrough; impression test, accessibility audit, usability testing), per each summary and link to the notes (when you share the video or other detailed evidences, I will notify you when you can make the contents private as soon as your work is graded)
+
 ## Pitch video 
 ## Conclusion: what did you learn throughout the process?
 Along the way, I had to continuously make iterations based on feedback and I learned the process of user-centered design and the fundamentals of design thinking. 
