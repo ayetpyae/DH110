@@ -120,6 +120,7 @@ After creating the low-fidelity protoype and testing out different interface des
 
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FtrP3i7bvv5q4Fne0HNCsaw%2FNevadaDeptOfEducationProject%3Fpage-id%3D257%253A1597%26node-id%3D257%253A2289%26viewport%3D241%252C48%252C0.11%26scaling%3Dscale-down%26starting-point-node-id%3D257%253A2289%26show-proto-sidebar%3D1" allowfullscreen></iframe>
 
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FtrP3i7bvv5q4Fne0HNCsaw%2FNevadaDeptOfEducationProject%3Fnode-id%3D61%253A1582" allowfullscreen></iframe>
 ## Evaluation and Revision
 
 ### Cognitive walkthrough
