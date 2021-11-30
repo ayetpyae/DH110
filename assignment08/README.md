@@ -117,7 +117,7 @@ Find the link to the [full documentation of the interface design](https://github
 ## High-fidelity prototype (functional/interactive prototype, assignment08)
 After creating the low-fidelity protoype and testing out different interface designs, I started the interactive prototype process. The purpose of this is to better visualize the functions of various features I wish to implement. Below is the final version of the high-fidelity prototype, which has gone through multiple rounds of iterations to reflect the feedback and comments given from others. 
 
--imbed figma file here-
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FtrP3i7bvv5q4Fne0HNCsaw%2FNevadaDeptOfEducationProject%3Fpage-id%3D257%253A1597%26node-id%3D257%253A2289%26viewport%3D241%252C48%252C0.11%26scaling%3Dscale-down%26starting-point-node-id%3D257%253A2289%26show-proto-sidebar%3D1" allowfullscreen></iframe>
 
 ## Evaluation and Revision
 
