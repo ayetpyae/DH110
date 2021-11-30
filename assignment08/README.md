@@ -166,6 +166,7 @@ All of my participants were able to complete the two tasks quickly and easily. T
 
 ## Pitch video 
 Here is the link to the [pitch video](https://drive.google.com/file/d/1cUPf8RK9kb6PNSjiWUutpoKTkwS-sZYw/view?usp=sharing). 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nuCh2X_VQcM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Reflection
 This was my first UX/UI design project where I designed a mobile web app using the user-centered design process. It was a fulfilling process and I have learned a lot about the fundamentals of UX/UI Design. It was great learning how to conduct user research interviews and contextual inquiries, creating personas and scenarios, as well as using prototyping tools like Figma and more.  There is a lot I can take away from this project and if I continue practicing the skills I picked up, I believe it could be an invaluable asset to my future career in UX/UI Design.
