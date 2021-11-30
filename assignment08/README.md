@@ -69,7 +69,7 @@ Afterwards, I made changes accordingly and created a digitized wireflow and low-
 Find the link to the [full documentation of the wireframes and low-fidelity prototype](https://github.com/ayetpyae/DH110/blob/main/assignment05/README.md) here. 
 
 ## Interface Design
-After creating the low-fidelity prototype, I started on the interface design. I tested out different typefaces and fonts, shapes, as well as colors. I also took into consideration accessibility, particularly color contrast. All of these were done on the homepage. The homepage is the most important page as it sets the tone for the rest of the website. Here is the link to the [figma file](https://www.figma.com/file/trP3i7bvv5q4Fne0HNCsaw/Interface-Design?node-id=9%3A961) with the design variations. (Each section is on a different page)
+After creating the low-fidelity prototype, I started on the interface design. I tested out different typefaces and fonts, shapes, as well as colors. I also took into consideration accessibility, particularly color contrast. All of these were done on the homepage. The homepage is the most important page as it sets the tone for the rest of the website. Here is the link to the [figma file](https://www.figma.com/file/trP3i7bvv5q4Fne0HNCsaw/Interface-Design?node-id=9%3A961) with the design variations (each section is on a different page). 
 
 ## High-fidelity prototype (functional/interactive prototype, assignment08)
 After creating the low-fidelity protoype and testing out different interface designs, I started the interactive prototype process. The purpose of this is to better visualize the functions of various features I wish to implement.
