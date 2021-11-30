@@ -53,7 +53,9 @@ Here are the personas I created:
 Find the link to the [full documentation of the UX storytelling](https://github.com/ayetpyae/DH110/tree/main/assignment04) here.
 
 ## Low-fidelity prototype
-After conducting user research and gaining a greater understanding of the product/service I was working on for the project, I finally started designing the actual app. I decided that the two main features I wanted to improve and/implement were a live chatbox and a more organized menu.(CHANGEEEE)
+After conducting user research and gaining a greater understanding of the product/service I was working on for the project, I finally started designing the actual app. I decided that the two main features I wanted to improve and/implement were
+1. a live chatbox which users can utilize to get assistance on finding information and 
+2. an optimized navigation bar/menu that assists users to access relevant information more efficiently.
 
 **Wireframes and Wireflows**  
 I first started by sketching wireframes and drawing wireflows. 
@@ -66,14 +68,39 @@ Next, I conducted a low-fidelity prototype test by asking a participant to conne
 
 Afterwards, I made changes accordingly and created a digitized wireflow and low-fidelity prototype. Here is the link to the [digitized low-fidelity prototype](https://www.figma.com/file/trP3i7bvv5q4Fne0HNCsaw/NevadaDeptOfEducationProject?node-id=0%3A1).
 
-(add pictures)
+![260136021_252916836747638_5335172847689964984_n](https://user-images.githubusercontent.com/91553011/143984522-cb636a42-5572-46c4-b1b7-f5cdc9623a68.jpg)
 
 Find the link to the [full documentation of the wireframes and low-fidelity prototype](https://github.com/ayetpyae/DH110/blob/main/assignment05/README.md) here. 
 
 ## Interface Design
 After creating the low-fidelity prototype, I started on the interface design. I tested out different typefaces and fonts, shapes, as well as colors. I also took into consideration accessibility, particularly color contrast. All of these were done on the homepage. The homepage is the most important page as it sets the tone for the rest of the website. Here is the link to the [figma file](https://www.figma.com/file/trP3i7bvv5q4Fne0HNCsaw/Interface-Design?node-id=9%3A961) with the design variations (each section is on a different page). 
 
+**Typography variations**  
+
+<img width="514" alt="typography" src="https://user-images.githubusercontent.com/91553011/140933376-e5d6c983-b7de-405d-b71a-f0757db820fb.png">
+
+The first variation I tested out was the combination of Raleway and Open Sans.
+The second variation I tested out was the combination of Lato and Catamaran.
+The third variation I tested out was the combination of Rubik and Karla. 
+
+**Shape variations**  
+
+<img width="485" alt="shapes" src="https://user-images.githubusercontent.com/91553011/140933374-0ccee7de-f5fc-4d7e-8571-0d433d2e1d76.png">
+
+I tested out the roundedness of the shapes, as well as their sizes. I liked the first one the best as I felt like it was the most balanced. The second one was too round, which I thought made it look a little casual and informal. The third one was just for fun. It is too "fun" for a state government website in my opinion. 
+
+**Color variations**  
+
+<img width="396" alt="colors" src="https://user-images.githubusercontent.com/91553011/140935997-de2da31f-b8ce-4c2e-b58c-25e8c3b0e31e.png">
+
+I chose to do light and dark modes for the color variations. 
+
+**Layout**
+
+<img width="222" alt="layout" src="https://user-images.githubusercontent.com/91553011/143984875-eae6847b-b948-4f4f-9708-d11955f4a130.png">
+
 **Accessibility audit**  
+
 The accessibility audit was conducted in the interface design process. In order to access how accessible my design was, I used the Figma plugin "A11y - Color Contrast Checker" to check if the colors I used had enough contrast to be distinguishable for every user.   
 <img width="361" alt="Accessibilitycheck" src="https://user-images.githubusercontent.com/91553011/140936239-824670f5-adac-4bd5-a326-e080fd2b94ae.png">  
 
@@ -83,7 +110,6 @@ The impression test was conducted near the end of the interface design process.
 
 I asked my participant to compare the homepage I designed with the original homepage. Overall, they told me that they liked my design and that it looked simple and clean. However, they said that they would like it if there was a short description of what the Department of Education of Nevada does. They thought that I could add a little bit more information about it. They also pointed out that it looked a little empty. I will be making changes based on what they said and I will be implementing them. For my final screens, I will be making it so that the page can be scrolled and more information can be obtained. 
 
-(add pictures)
 
 ## High-fidelity prototype (functional/interactive prototype, assignment08)
 After creating the low-fidelity protoype and testing out different interface designs, I started the interactive prototype process. The purpose of this is to better visualize the functions of various features I wish to implement. Below is the final version of the high-fidelity prototype, which has gone through multiple rounds of iterations to reflect the feedback and comments given from others. 
@@ -123,5 +149,7 @@ Usability test - Isaac Wen
 - things implemented/changed (show image)
 
 ## Pitch video 
+(imbed video)
+
 ## Conclusion and Reflection: what did you learn throughout the process?
 Along the way, I had to continuously make iterations based on feedback and I learned the process of user-centered design and the fundamentals of design thinking. 
