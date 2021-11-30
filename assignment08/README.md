@@ -73,18 +73,55 @@ Find the link to the [full documentation of the wireframes and low-fidelity prot
 ## Interface Design
 After creating the low-fidelity prototype, I started on the interface design. I tested out different typefaces and fonts, shapes, as well as colors. I also took into consideration accessibility, particularly color contrast. All of these were done on the homepage. The homepage is the most important page as it sets the tone for the rest of the website. Here is the link to the [figma file](https://www.figma.com/file/trP3i7bvv5q4Fne0HNCsaw/Interface-Design?node-id=9%3A961) with the design variations (each section is on a different page). 
 
+**Accessibility audit**  
+The accessibility audit was conducted in the interface design process. In order to access how accessible my design was, I used the Figma plugin "A11y - Color Contrast Checker" to check if the colors I used had enough contrast to be distinguishable for every user.   
+<img width="361" alt="Accessibilitycheck" src="https://user-images.githubusercontent.com/91553011/140936239-824670f5-adac-4bd5-a326-e080fd2b94ae.png">  
+
+**Impression test**  
+The impression test was conducted near the end of the interface design process. 
+"Looks cohesive...Simple. It looks like there's a lot of blank space here (pointing at the area underneath search bar). But much better than the current one..."
+
+I asked my participant to compare the homepage I designed with the original homepage. Overall, they told me that they liked my design and that it looked simple and clean. However, they said that they would like it if there was a short description of what the Department of Education of Nevada does. They thought that I could add a little bit more information about it. They also pointed out that it looked a little empty. I will be making changes based on what they said and I will be implementing them. For my final screens, I will be making it so that the page can be scrolled and more information can be obtained. 
+
 (add pictures)
 
 ## High-fidelity prototype (functional/interactive prototype, assignment08)
-After creating the low-fidelity protoype and testing out different interface designs, I started the interactive prototype process. The purpose of this is to better visualize the functions of various features I wish to implement.
+After creating the low-fidelity protoype and testing out different interface designs, I started the interactive prototype process. The purpose of this is to better visualize the functions of various features I wish to implement. Below is the final version of the high-fidelity prototype, which has gone through multiple rounds of iterations to reflect the feedback and comments given from others. 
 
 -imbed figma file here-
 
-## Evaluation and revision history 
+## Evaluation and Revision
+
+**Cognitive walkthrough**  
+The main feedback I got when I conducted the in-class cognitive walkthrough was for the chat box feature. I showed my tester my wireframes as well as my interface design and told them to look through the screens and make comments. My tester noted one very important point, which was that when users want to use the chat box feature, they want their questions answered as soon as possible. I had initially done it so that users would have to input their contact information and choose a topic before they are brought to the chatbox. Hence, I decided to delete these steps and add some possible topics on the first chatbox screen.
+
+Comments from in-class cognitive walkthough activity, 11/16/2021:
+- *"...result of clicking student/ parent/ educator buttons not clear..."*
+- *"...icons make it pretty clear where to click..."*
+- *"...user might want minimal steps between clicking chat button and actually getting to the chat room..."*
+
+(add photo - x on wireframes and show lo-fi)
+
+**Usability testing**
 Including cognitive walkthrough; impression test, accessibility audit, usability testing), per each summary and link to the notes (when you share the video or other detailed evidences, I will notify you when you can make the contents private as soon as your work is graded)
 
-I conducted 3 usability tests.
+I conducted 3 usability tests after creating the high-fidelity prototype. The purpose of the usability testing was to catch any mistakes I made or see if any areas needed to be improved upon. 
+
+[Usability test - Amanda Johnson](https://drive.google.com/file/d/1glkrjdpKe87aTSW8fbZxwYIUwLAsgV4K/view?usp=sharing)
+- insights
+- comments?
+- things implemented/changed (show image)
+
+[Usability test - Charvi Nagpal](https://drive.google.com/file/d/17c20rwBX-6Uyi3BpVbqa5pMUQXJUVNfA/view?usp=sharing)
+- insights
+- comments
+- things implement/changed (show image)
+
+Usability test - Isaac Wen 
+- insights
+- comments
+- things implemented/changed (show image)
 
 ## Pitch video 
-## Conclusion: what did you learn throughout the process?
+## Conclusion and Reflection: what did you learn throughout the process?
 Along the way, I had to continuously make iterations based on feedback and I learned the process of user-centered design and the fundamentals of design thinking. 
