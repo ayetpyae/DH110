@@ -15,6 +15,7 @@ I analyzed the usability of the Nevada Department of Education website using Jak
 1. The entire website is **cluttered and overloaded with information**. There is no hierarchy of information and the entire website in general is not user friendly. There are too many tabs with too many drop down options which can confuse users. The website scored a 3 on the severity rating on the aesthetic and minimalist design heuristic. 
 2. The website did **poorly on the recognition rather than recall heuristic**. The search bar does not remember user's previous searches, which makes it difficult for users to remember what they have already looked up and what they have not. 
 3. The website **scored a 3 on the severity rating for the help and documentation heuristic**. The FAQ page is hidden all the way at the bottom of the first menu tab and is not visible.  
+<img width="944" alt="NevadaDepartmentOfEducation" src="https://user-images.githubusercontent.com/91553011/144001600-e0c965a4-af12-4cba-8b54-ecdf8c5ac2da.png">
 
 Find the link to the [full documentation of the heuristics evaluation](https://github.com/ayetpyae/DH110/blob/main/assignment01/README.md) here. 
 
@@ -28,10 +29,10 @@ Find the link to the [full documentation of the usability testing](https://githu
 
 ## User Research - Contextual Inquiry:
 After conducting usability testing, I sought to understand users and how they navigated the web to find information on the general topic of K-12 education. I decided to use a combination of two methods to do so: participatory observation and interview.
-- For participatory observation I observed how my participant gathered her information online.
+- For the participatory observation, I observed how my participant gathered her information online.
 - For the interview, I asked her some questions on her thoughts on K-12 education and her ways of finding information on that topic (online, word-of-mouth, etc.)
 
-Through this, I gained a better understanding of how users thought about the topic of K-12 education and how they gathered information on the topic. The user confirmed my initial thoughts about different government websites. She used words like outdated, formal, and cluttered to describe the California Department of Education. I also learned a lot from her behavior. The following are some insights I made from the activity:
+Through this, I gained a better understanding of how users thought about the topic of K-12 education and how they gathered information on the topic. The user confirmed my initial thoughts about different government websites. She used words like outdated, formal, and cluttered to describe the California Department of Education. I also learned a lot from her general behavior of scouring the web for information. The following are some insights I made from the activity:
 - Word of mouth is an important way to gain information about K-12 education
 - User's view on government websites: formal, lots of information, overwhelming, and cluttered
 - Users rely on the generated list of questions and keywords to find more relevant information
@@ -43,7 +44,7 @@ Find the link to the [full documentation of the contextual inquiry](https://gith
 Next, I created 2 personas and empathy maps and came up with scenarios and journey maps in order to
 - understand the users from their perspectives and see how they view the world, 
 - recognize target users' behaviors, pain points, goals, challenges, and more, and 
-- create designs that focuses on users' needs through creating and analyzing personas in detail.
+- create designs that focus on users' needs through creating and analyzing personas in detail.
 Through this process, I understood what user-centered design means and how to take into consideration my users' needs and wants when interacting with an application.
 
 Here are the personas I created:  
@@ -122,7 +123,7 @@ After creating the low-fidelity protoype and testing out different interface des
 ## Evaluation and Revision
 
 ### Cognitive walkthrough
-The main feedback I got when I conducted the in-class cognitive walkthrough was for the chat box feature. I showed my tester my wireframes as well as my interface design and told them to look through the screens and make comments. My tester noted one very important point, which was that when users want to use the chat box feature, they want their questions answered as soon as possible. I had initially done it so that users would have to input their contact information and choose a topic before they are brought to the chatbox. Hence, I decided to delete these steps and add some possible topics on the first chatbox screen.
+The main feedback I got when I conducted the in-class cognitive walkthrough was for the chat box feature. I showed my tester my wireframes as well as my interface design and told them to look through the screens and make comments. My participant noted one very important point, which was that when users want to use the chat box feature, they want their questions answered as soon as possible. I had initially done it so that users would have to input their contact information and choose a topic before they are brought to the chatbox. Hence, I decided to delete these steps and add some possible topics on the first chatbox screen.
 
 Comments from in-class cognitive walkthough activity, 11/16/2021:
 - *"...result of clicking student/ parent/ educator buttons not clear..."*
@@ -164,7 +165,7 @@ All of my participants were able to complete the two tasks quickly and easily. T
 
 
 ## Pitch video 
-(imbed video)
+Here is the link to the [pitch video](https://drive.google.com/file/d/1cUPf8RK9kb6PNSjiWUutpoKTkwS-sZYw/view?usp=sharing). 
 
 ## Reflection
 This was my first UX/UI design project where I designed a mobile web app using the user-centered design process. It was a fulfilling process and I have learned a lot about the fundamentals of UX/UI Design. It was great learning how to conduct user research interviews and contextual inquiries, creating personas and scenarios, as well as using prototyping tools like Figma and more.  There is a lot I can take away from this project and if I continue practicing the skills I picked up, I believe it could be an invaluable asset to my future career in UX/UI Design.
