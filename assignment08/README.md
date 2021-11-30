@@ -115,7 +115,7 @@ I asked my participant to compare the homepage I designed with the original home
 
 Find the link to the [full documentation of the interface design](https://github.com/ayetpyae/DH110/blob/main/assignment06/README.md) here. 
 
-## High-fidelity prototype (functional/interactive prototype, assignment08)
+## High-fidelity prototype
 After creating the low-fidelity protoype and testing out different interface designs, I started the interactive prototype process. The purpose of this is to better visualize the functions of various features I wish to implement. Below is the final version of the high-fidelity prototype, which has gone through multiple rounds of iterations to reflect the feedback and comments given from others. 
 
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FtrP3i7bvv5q4Fne0HNCsaw%2FNevadaDeptOfEducationProject%3Fnode-id%3D61%253A1582" allowfullscreen></iframe>
