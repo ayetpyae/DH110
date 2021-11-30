@@ -46,9 +46,10 @@ Next, I created 2 personas and empathy maps and came up with scenarios and journ
 - create designs that focuses on users' needs through creating and analyzing personas in detail.
 Through this process, I understood what user-centered design means and how to take into consideration my users' needs and wants when interacting with an application.
 
-Here are the personas I created:
-![Persona1](https://user-images.githubusercontent.com/91553011/138891357-aba2c7a9-1d24-4255-aed4-f5c7c611afe3.png)
-![Persona2](https://user-images.githubusercontent.com/91553011/138891674-86bb229b-3ba9-4f9a-b75b-1ad6badb6643.png)
+Here are the personas I created:  
+
+<img width="600" alt="Persona1" src="https://user-images.githubusercontent.com/91553011/138891357-aba2c7a9-1d24-4255-aed4-f5c7c611afe3.png">
+<img width="600" alt="Persona2" src="https://user-images.githubusercontent.com/91553011/138891674-86bb229b-3ba9-4f9a-b75b-1ad6badb6643.png">
 
 Find the link to the [full documentation of the UX storytelling](https://github.com/ayetpyae/DH110/tree/main/assignment04) here.
 
@@ -59,16 +60,17 @@ After conducting user research and gaining a greater understanding of the produc
 
 **Wireframes and Wireflows**  
 I first started by sketching wireframes and drawing wireflows. 
-![DH110lowfiprototype-3](https://user-images.githubusercontent.com/91553011/139853946-be757980-ed94-4c35-bee4-5cfdcc52f85d.jpg)
-![DH110lowfiprototype-4](https://user-images.githubusercontent.com/91553011/139853986-b3013946-8811-48a4-8d9b-037adc8d5c46.jpg)
-![DH110lowfiprototype-5](https://user-images.githubusercontent.com/91553011/139854007-4caf4773-ef59-4245-971a-5b969705cd71.jpg)
+<img width="600" alt="DH110lowfiprototype1" src="https://user-images.githubusercontent.com/91553011/139853946-be757980-ed94-4c35-bee4-5cfdcc52f85d.jpg">
+<img width="600" alt="DH110lowfiprototype2" src="https://user-images.githubusercontent.com/91553011/139853986-b3013946-8811-48a4-8d9b-037adc8d5c46.jpg">
+<img width="600" alt="DH110lowfiprototype3" src="https://user-images.githubusercontent.com/91553011/139854007-4caf4773-ef59-4245-971a-5b969705cd71.jpg">
 
 **Low-fidelity prototype testing**  
 Next, I conducted a low-fidelity prototype test by asking a participant to connect the wireframes that I created and I screen recorded the process. I guided her to try out the features and complete the tasks. She talked out loud throughout the process and noted the places where she was confused. The [video](https://drive.google.com/file/d/1NsBdAfZqXOv2WWshxM59m9dQJbyNXiPw/view?usp=sharing) can be found here.
 
 Afterwards, I made changes accordingly and created a digitized wireflow and low-fidelity prototype. Here is the link to the [digitized low-fidelity prototype](https://www.figma.com/file/trP3i7bvv5q4Fne0HNCsaw/NevadaDeptOfEducationProject?node-id=0%3A1).
 
-![260136021_252916836747638_5335172847689964984_n](https://user-images.githubusercontent.com/91553011/143984522-cb636a42-5572-46c4-b1b7-f5cdc9623a68.jpg)
+
+<img width="750" alt="lowfiprototype" src="https://user-images.githubusercontent.com/91553011/143985835-1034a779-b221-40c5-9453-badcaac7c96b.jpg">
 
 Find the link to the [full documentation of the wireframes and low-fidelity prototype](https://github.com/ayetpyae/DH110/blob/main/assignment05/README.md) here. 
 
@@ -110,6 +112,7 @@ The impression test was conducted near the end of the interface design process.
 
 I asked my participant to compare the homepage I designed with the original homepage. Overall, they told me that they liked my design and that it looked simple and clean. However, they said that they would like it if there was a short description of what the Department of Education of Nevada does. They thought that I could add a little bit more information about it. They also pointed out that it looked a little empty. I will be making changes based on what they said and I will be implementing them. For my final screens, I will be making it so that the page can be scrolled and more information can be obtained. 
 
+Find the link to the [full documentation of the interface design](https://github.com/ayetpyae/DH110/blob/main/assignment06/README.md) here. 
 
 ## High-fidelity prototype (functional/interactive prototype, assignment08)
 After creating the low-fidelity protoype and testing out different interface designs, I started the interactive prototype process. The purpose of this is to better visualize the functions of various features I wish to implement. Below is the final version of the high-fidelity prototype, which has gone through multiple rounds of iterations to reflect the feedback and comments given from others. 
@@ -118,7 +121,7 @@ After creating the low-fidelity protoype and testing out different interface des
 
 ## Evaluation and Revision
 
-**Cognitive walkthrough**  
+### Cognitive walkthrough
 The main feedback I got when I conducted the in-class cognitive walkthrough was for the chat box feature. I showed my tester my wireframes as well as my interface design and told them to look through the screens and make comments. My tester noted one very important point, which was that when users want to use the chat box feature, they want their questions answered as soon as possible. I had initially done it so that users would have to input their contact information and choose a topic before they are brought to the chatbox. Hence, I decided to delete these steps and add some possible topics on the first chatbox screen.
 
 Comments from in-class cognitive walkthough activity, 11/16/2021:
@@ -126,30 +129,51 @@ Comments from in-class cognitive walkthough activity, 11/16/2021:
 - *"...icons make it pretty clear where to click..."*
 - *"...user might want minimal steps between clicking chat button and actually getting to the chat room..."*
 
-(add photo - x on wireframes and show lo-fi)
+<img width="400" alt="Screenshot 2021-11-29 203216" src="https://user-images.githubusercontent.com/91553011/143986036-6b4d776d-8840-4598-8a75-06a3c4a83092.png">
+<img width="400" alt="cogwalkthrough" src="https://user-images.githubusercontent.com/91553011/143985489-aff72c8a-d258-427c-9abe-2d171926b8fd.png">
 
-**Usability testing**
-Including cognitive walkthrough; impression test, accessibility audit, usability testing), per each summary and link to the notes (when you share the video or other detailed evidences, I will notify you when you can make the contents private as soon as your work is graded)
 
-I conducted 3 usability tests after creating the high-fidelity prototype. The purpose of the usability testing was to catch any mistakes I made or see if any areas needed to be improved upon. 
+### Usability testing
+I conducted usability testing with 3 participants after creating the high-fidelity prototype. The purpose of the usability testing was to catch any mistakes I made or to see if any areas needed to be improved upon. I asked them to complete two tasks: 
+1. Chatbox - Suppose that you are a mother of 2 elementary school students. You want to find more information on how schools are dealing with COVID. 
+  a. Open chat box feature. 
+  b. Ask question on COVID-19 safety measures schools are taking. 
+  c. Fill out the feedback form after you're done chatting.
 
-[Usability test - Amanda Johnson](https://drive.google.com/file/d/1glkrjdpKe87aTSW8fbZxwYIUwLAsgV4K/view?usp=sharing)
-- insights
-- comments?
-- things implemented/changed (show image)
+2. Book an appointment - Suppose that you are a Nevada public high school teacher. You need to renew your teaching license. 
+  a. Schedule an appointment to do so.
 
-[Usability test - Charvi Nagpal](https://drive.google.com/file/d/17c20rwBX-6Uyi3BpVbqa5pMUQXJUVNfA/view?usp=sharing)
-- insights
-- comments
-- things implement/changed (show image)
+The following are the 3 videos of the usability tests I carried out.  
 
-Usability test - Isaac Wen 
-- insights
-- comments
-- things implemented/changed (show image)
+- [Usability testing - Amanda Johnson](https://drive.google.com/file/d/1glkrjdpKe87aTSW8fbZxwYIUwLAsgV4K/view?usp=sharing)
+- [Usability testing - Charvi Nagpal](https://drive.google.com/file/d/17c20rwBX-6Uyi3BpVbqa5pMUQXJUVNfA/view?usp=sharing)
+- [Usability testing - Isaac Wen](https://drive.google.com/file/d/1ucEGEgwSkxaedAHbCQYYnYFd3yO6eNVO/view?usp=sharing) 
+
+**Insights from usability testing**  
+All of my participants were able to complete the two tasks quickly and easily. They expressed that the app was straightforward, clear, and easy to use. They also picked up on some areas where I made mistakes and made suggestions on things they thought could be improved on. 
+- Search bar on homepage
+   - They noted that the search bar on the homepage decreases the trustworthiness of app as it looks "scammy", or looks like a search bar that would appear on a website where scams happen. Hence, I changed the design of the search bar.
+   - <img width="300" alt="Homepage" src="https://user-images.githubusercontent.com/91553011/143993796-112bd1b6-b669-4f06-936b-0ea4d3d8f3a9.png">
+- COVID information tab 
+  - They noted that the tab that pop ups looked scrollable as the grey box was extended all the way down to the end of the page. So I fixed it so that the grey box did not extend all the way.
+  - <img width="300" alt="covidinfotab" src="https://user-images.githubusercontent.com/91553011/143991540-6c7e9234-8452-41ac-ad70-1053c3ed85b6.png">
+  - They also noted that when the tab is closed, it goes back to the initial chat box page. This was a prototyping issue and I figured out that instead of choosing "Back" for the interaction, I had to choose "Close overlay" so that users would be brought back to the previous page.
+- Select location page
+  - They were confused when selecting the locations while doing task #2 which was to book an appointment. I should have clarified that only one location was to be selected. I fixed this by adding a text underneath the title.
+  - They also suggested that I add visual dividers to the different locations so users can see individual data more clearly.
+  - 
 
 ## Pitch video 
 (imbed video)
 
-## Conclusion and Reflection: what did you learn throughout the process?
-Along the way, I had to continuously make iterations based on feedback and I learned the process of user-centered design and the fundamentals of design thinking. 
+## Reflection
+This was my first UX/UI design project where I designed a mobile web app using the user-centered design process. It was a fulfilling process and I have learned a lot about the fundamentals of UX/UI Design. It was great learning how to conduct user research interviews and contextual inquiries, creating personas and scenarios, as well as using prototyping tools like Figma and more.  There is a lot I can take away from this project and if I continue practicing the skills I picked up, I believe it could be an invaluable asset to my future career in UX/UI Design.
+
+Along the way, I had to continuously make revisions to my design based on feedback from my peers. I learned to listen to people's opinions and ideas, and learned how to take those to make good user-centered design. I also learned that being open minded and being open to different ideas and suggestions is extremely important in creating good design.
+
+If I had more time, I would love to implement or change the following:
+- when click on tab - open up into a page
+- add more information and make pages scrollable
+
+
+things I would have done differently?
