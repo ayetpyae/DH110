@@ -2,7 +2,7 @@
 Aye Pyae | DH110 | Fall 2021
 
 ## Introduction
-This project examines and makes improvemnets upon the current Nevada Department of Education website using a user-centered design approach. COVID-19 dramatically changed schooling in the United States, with the need for online schooling, remote learning, and digitalized information and resources. The Nevada's Department of Education (DOE) oversees the public K-12 education system in Nevada. The website provides all the information on K-12 education for all people from educators to parents and students. Good user interface design is crucial for parents, students, educators, and more to access information and resources easily. This project strives to improve the design of the current website in order for its users to have a better user experience. 
+This project examines and improves upon the current Nevada Department of Education website using a user-centered design approach. COVID-19 dramatically changed schooling in the United States, with the need for online schooling, remote learning, and digitalized information and resources. The Nevada's Department of Education (DOE) oversees the public K-12 education system in Nevada. The website provides all the information on K-12 education for all people from educators to parents and students. Good user interface design is crucial for parents, students, educators, and more to access information and resources easily. This project strives to improve the design of the current website in order for its users to have a better user experience. 
 
 ## Design statement
 The current Nevada Department of Education website is formal, outdated, and cluttered. Through my UX design project, I hope to make it more user-friendly and organized by improving upon some design features as well as implementing new ones. I conducted research, carried out contextual inquiries and usability testing, and created personas and empathy maps to understand the users considerably and create a user-centered design project.
@@ -83,7 +83,7 @@ After creating the low-fidelity protoype and testing out different interface des
 ## Evaluation and revision history 
 Including cognitive walkthrough; impression test, accessibility audit, usability testing), per each summary and link to the notes (when you share the video or other detailed evidences, I will notify you when you can make the contents private as soon as your work is graded)
 
-I conducted 3 usability tests 
+I conducted 3 usability tests.
 
 ## Pitch video 
 ## Conclusion: what did you learn throughout the process?
