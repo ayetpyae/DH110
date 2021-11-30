@@ -151,17 +151,18 @@ The following are the 3 videos of the usability tests I carried out.
 
 **Insights from usability testing**  
 All of my participants were able to complete the two tasks quickly and easily. They expressed that the app was straightforward, clear, and easy to use. They also picked up on some areas where I made mistakes and made suggestions on things they thought could be improved on. 
-- Search bar on homepage
+- *Search bar on homepage*
    - They noted that the search bar on the homepage decreases the trustworthiness of app as it looks "scammy", or looks like a search bar that would appear on a website where scams happen. Hence, I changed the design of the search bar.
    - <img width="300" alt="Homepage" src="https://user-images.githubusercontent.com/91553011/143993796-112bd1b6-b669-4f06-936b-0ea4d3d8f3a9.png">
-- COVID information tab 
+- *COVID information tab*
   - They noted that the tab that pop ups looked scrollable as the grey box was extended all the way down to the end of the page. So I fixed it so that the grey box did not extend all the way.
   - <img width="300" alt="covidinfotab" src="https://user-images.githubusercontent.com/91553011/143991540-6c7e9234-8452-41ac-ad70-1053c3ed85b6.png">
   - They also noted that when the tab is closed, it goes back to the initial chat box page. This was a prototyping issue and I figured out that instead of choosing "Back" for the interaction, I had to choose "Close overlay" so that users would be brought back to the previous page.
-- Select location page
+- *Select location page*
   - They were confused when selecting the locations while doing task #2 which was to book an appointment. I should have clarified that only one location was to be selected. I fixed this by adding a text underneath the title.
   - They also suggested that I add visual dividers to the different locations so users can see individual data more clearly.
-  - 
+  - <img width="300" alt="Screenshot 2021-11-29 220213" src="https://user-images.githubusercontent.com/91553011/143994060-13884135-5c2d-45bf-88dc-ed7b875ae820.png">
+
 
 ## Pitch video 
 (imbed video)
