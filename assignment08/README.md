@@ -139,7 +139,6 @@ I conducted usability testing with 3 participants after creating the high-fideli
   a. Open chat box feature. 
   b. Ask question on COVID-19 safety measures schools are taking. 
   c. Fill out the feedback form after you're done chatting.
-
 2. Book an appointment - Suppose that you are a Nevada public high school teacher. You need to renew your teaching license. 
   a. Schedule an appointment to do so.
 
@@ -152,12 +151,12 @@ The following are the 3 videos of the usability tests I carried out.
 **Insights from usability testing**  
 All of my participants were able to complete the two tasks quickly and easily. They expressed that the app was straightforward, clear, and easy to use. They also picked up on some areas where I made mistakes and made suggestions on things they thought could be improved on. 
 - *Search bar on homepage*
-   - They noted that the search bar on the homepage decreases the trustworthiness of app as it looks "scammy", or looks like a search bar that would appear on a website where scams happen. Hence, I changed the design of the search bar.
+   - They noted that the search bar on the homepage decreased the trustworthiness of app as it looked "scammy", or looked like a search bar that would appear on a website where scams happened. Hence, I changed the design of the search bar.
    - <img width="300" alt="Homepage" src="https://user-images.githubusercontent.com/91553011/143993796-112bd1b6-b669-4f06-936b-0ea4d3d8f3a9.png">
 - *COVID information tab*
   - They noted that the tab that pop ups looked scrollable as the grey box was extended all the way down to the end of the page. So I fixed it so that the grey box did not extend all the way.
-  - <img width="300" alt="covidinfotab" src="https://user-images.githubusercontent.com/91553011/143991540-6c7e9234-8452-41ac-ad70-1053c3ed85b6.png">
   - They also noted that when the tab is closed, it goes back to the initial chat box page. This was a prototyping issue and I figured out that instead of choosing "Back" for the interaction, I had to choose "Close overlay" so that users would be brought back to the previous page.
+  - <img width="300" alt="covidinfotab" src="https://user-images.githubusercontent.com/91553011/143991540-6c7e9234-8452-41ac-ad70-1053c3ed85b6.png">
 - *Select location page*
   - They were confused when selecting the locations while doing task #2 which was to book an appointment. I should have clarified that only one location was to be selected. I fixed this by adding a text underneath the title.
   - They also suggested that I add visual dividers to the different locations so users can see individual data more clearly.
@@ -172,9 +171,7 @@ This was my first UX/UI design project where I designed a mobile web app using t
 
 Along the way, I had to continuously make revisions to my design based on feedback from my peers. I learned to listen to people's opinions and ideas, and learned how to take those to make good user-centered design. I also learned that being open minded and being open to different ideas and suggestions is extremely important in creating good design.
 
-If I had more time, I would love to implement or change the following:
-- when click on tab - open up into a page
-- add more information and make pages scrollable
-
-
-things I would have done differently?
+If I had more time and resources, I would love to implement or change the following:
+- Conduct user testing and interview on people from my target user group. As I did not personally know many parents, K-12 educators, or people from Nevada in general, I conducted my contextual inquiry on someone who only loosely fit the target user group.
+- Conduct usability testing on target users. The participants for my usability testing were mostly all college-aged students. It would have been better if they were actual potential users of the app.
+- Add more information and features on the app. Currently, I only worked on two features, which are the chat box and booking an appointment for educators. It would be great if I could add more features for the other users like students and administrators. 
